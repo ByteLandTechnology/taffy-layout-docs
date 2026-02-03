@@ -38,6 +38,8 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          CLARITY_PROJECT_ID: ${{ secrets.CLARITY_PROJECT_ID }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
