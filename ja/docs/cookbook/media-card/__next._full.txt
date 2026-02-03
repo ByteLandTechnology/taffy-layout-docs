@@ -1,0 +1,482 @@
+1:"$Sreact.fragment"
+2:I[454125,["/_next/static/chunks/7f4e6b683fb77d76.js"],"MicrosoftClarity"]
+3:I[38246,["/_next/static/chunks/7f4e6b683fb77d76.js"],"ThemeProvider"]
+4:I[801801,["/_next/static/chunks/7f4e6b683fb77d76.js"],"Providers"]
+5:I[246417,["/_next/static/chunks/7f4e6b683fb77d76.js"],"ErrorBoundary"]
+6:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+7:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+a:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"ViewportBoundary"]
+f:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"MetadataBoundary"]
+11:I[168027,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+:HL["/_next/static/chunks/3c6b676c784d9a85.css","style"]
+:HL["/_next/static/chunks/c66ac195687e0cc5.css","style"]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"tOapCMotD9RyHJzviuaQ-","c":["","ja","docs","cookbook","media-card"],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d"],{"children":["docs",{"children":[["slug","cookbook/media-card","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c6b676c784d9a85.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/c66ac195687e0cc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/7f4e6b683fb77d76.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"exo_2_573c8e2-module__WvtsaG__variable jetbrains_mono_f8290d5a-module__2Nw1lG__variable","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen antialiased","children":[["$","$L2",null,{"projectId":""}],["$","a",null,{"href":"#main-content","className":"skip-link","children":"Skip to content"}],["$","$L3",null,{"defaultTheme":"system","enableSystem":true,"storageKey":"taffy-theme","children":["$","$L4",null,{"children":["$","$L5",null,{"children":["$","div",null,{"id":"main-content","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L8"]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/27da104fd0ed3672.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/cedfca1d4b4ee591.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/870949d44eec98cb.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/a1bc20a569d2ad82.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+8:["$","div",null,{"lang":"ja","data-pagefind-filter":"lang:ja","className":"contents","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"IconMark"]
+c:null
+10:[["$","title","0",{"children":"メディアカード | Taffy Layout"}],["$","meta","1",{"name":"author","content":"Taffy Contributors"}],["$","meta","2",{"name":"keywords","content":"layout,flexbox,grid,rust,wasm,ui,taffy,css,browser,server"}],["$","link","3",{"rel":"canonical","href":"https://taffylayout.com/ja/docs/cookbook/media-card"}],["$","link","4",{"rel":"alternate","hrefLang":"en-US","href":"https://taffylayout.com"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://taffylayout.com/zh"}],["$","link","6",{"rel":"alternate","hrefLang":"ja-JP","href":"https://taffylayout.com/ja"}],["$","meta","7",{"property":"og:title","content":"メディアカード"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"メディアカード"}],["$","link","11",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","12",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L12","13",{}]]
+13:I[961232,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+14:I[47654,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+15:I[67575,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+9:["$","div",null,{"className":"min-h-screen bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-50","children":[["$","$L13",null,{}],["$","$L14",null,{"locale":"ja","navGroups":[{"key":"docs","title":"ドキュメント","href":"/ja/docs"},{"key":"api","title":"API","href":"/ja/docs/api"},{"key":"benchmark","title":"ベンチマーク","href":"/ja/benchmark"},{"key":"playground","title":"プレイグラウンド","href":"/ja/playground"}],"activeGroup":"docs","ui":{"docs":"ドキュメント","gettingStarted":"はじめに","api":"API","benchmark":"ベンチマーク","playground":"プレイグラウンド","navigation":"ナビゲーション","close":"閉じる","menu":"メニュー","docsGroups":"ドキュメント分類","inThisGroup":"このグループ","browseDocs":"ドキュメントを見る","onThisPage":"このページ","docSubtitle":"ドキュメント","notFoundTitle":"ページが見つかりません","notFoundBody":"指定されたドキュメントページは存在しません。","backHome":"ホームへ戻る","langLabel":"言語","changelog":"変更ログ","changelogNotTranslated":"このページは英語版のみご利用いただけます。変更ログを表示するには英語版に切り替えてください。","missingTranslation":"このページの翻訳はまだありません。英語版を表示しています。","homeTitle":"なぜ Taffy？","homeSubtitle":"Taffy Layout の特長を簡潔に紹介します。","entryPoints":"エントリーポイント","whyTaffy":"なぜ Taffy か","open":"開く","closeMenu":"メニューを閉じる","openMenu":"メニューを開く","builtWith":"Rust と WASM で構築","heroDescription":"すべてのプラットフォーム向けの高速で柔軟かつ堅牢なフレックスボックス＆グリッドレイアウトエンジン。","flexboxGrid":"DOM なしでのフレックスボックスとグリッドレイアウト。","fastDeterministic":"カスタムレンダラー向けの高速で決定論的なレイアウト。","portableAPI":"実世界の UI エンジンのためのポータブル API。","fullBenchmarkSuite":"ベンチマーク","run":"実行","stop":"停止","scenario":"シナリオ","buildPhase":"ビルドフェーズ","layoutPhase":"レイアウトフェーズ","pending":"保留中","faster":"倍速い","slower":"倍遅い","taffyPlayground":"プレイグラウンド","presetFlexBetween":"Flex · 両端揃え","presetFlexBetweenDesc":"カード間にスペースを均等に配分する行コンテナ。","presetFlexCenter":"Flex · 中央揃え","presetFlexCenterDesc":"アイテムをコンテナの中央に配置します。","presetFlexGrow":"Flex · グロウ","presetFlexGrowDesc":"アイテムが行を埋めるように比例して成長します。","presetFlexWrap":"Flex · ラップ","presetFlexWrapDesc":"align-contentコントロール付きのラップレイアウト。","presetGridBasic":"Grid · 基本","presetGridBasicDesc":"固定サイズの自動配置グリッドトラック。","presetGridSpans":"Grid · スパン","presetGridSpansDesc":"グリッド配置を強調するためのミックススパン。","themeToggle":"テーマを切り替え","themeSwitchToLight":"ライトモードに切り替え","themeSwitchToDark":"ダークモードに切り替え","themeLightLabel":"ライトモード","themeDarkLabel":"ダークモード","githubTooltip":"GitHub リポジトリ","languageTooltip":"言語を切り替え","languageMenuLabel":"言語を選択","searchDocs":"ドキュメントを検索…","searchDocumentation":"ドキュメントを検索","searchTooltip":"ドキュメントを検索","searchPlaceholder":"ドキュメントを検索…","searchResults":"検索結果","noResultsFound":"結果が見つかりません","nestedNodes":"ネスト / {{count}} ノード","flatNodes":"フラット / {{count}} ノード","binaryNodes":"バイナリ / {{count}} ノード","chainLevels":"チェーン / {{count}} レベル","docsDesc":"ガイド付きの概要と完全なドキュメントマップから始めます。","apiDesc":"型付き API ドキュメント、列挙型、クラス、および関数。","benchmarkDesc":"ブラウザで完全なパフォーマンス スイートを実行します。","playgroundDesc":"レイアウトを試し、結果を視覚化します。","fullScreenEditor":"フルスクリーンエディタ","console":"コンソール"}}],["$","div",null,{"className":"mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8","children":["$","div",null,{"className":"doc-layout grid gap-8 lg:grid-cols-[280px,minmax(0,1fr)] xl:grid-cols-[280px,minmax(0,1fr),220px]","children":[["$","aside",null,{"className":"doc-layout__sidebar hidden lg:block","children":["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":["$","$L15",null,{"items":[{"title":"ドキュメント","segment":"docs","order":0,"href":"/ja/docs","children":[{"title":"Taffy について","href":"/ja/docs/about-taffy","order":1,"segment":"about-taffy"},{"title":"はじめに","order":2,"segment":"getting-started","children":[{"title":"インストール","href":"/ja/docs/getting-started/installation","order":1,"segment":"installation"},{"title":"クイックスタート","href":"/ja/docs/getting-started/quick-start","order":2,"segment":"quick-start"},{"title":"ノードツリーの構築","href":"/ja/docs/getting-started/building-trees","order":3,"segment":"building-trees"},{"title":"レイアウトの計算","href":"/ja/docs/getting-started/computing-layouts","order":4,"segment":"computing-layouts"},{"title":"設定","href":"/ja/docs/getting-started/configuration","order":5,"segment":"configuration"}],"href":"/ja/docs/getting-started"},{"title":"コアコンセプト","order":3,"segment":"core-concepts","children":[{"title":"Style オブジェクト","href":"/ja/docs/core-concepts/objects-style","order":1,"segment":"objects-style"},{"title":"TaffyTree オブジェクト","href":"/ja/docs/core-concepts/objects-taffy-tree","order":2,"segment":"objects-taffy-tree"},{"title":"Layout オブジェクト","href":"/ja/docs/core-concepts/objects-layout","order":3,"segment":"objects-layout"},{"title":"測定関数","href":"/ja/docs/core-concepts/measure-functions","order":5,"segment":"measure-functions"},{"title":"サイズ、スペース、単位","href":"/ja/docs/core-concepts/size-and-space","order":9999,"segment":"size-and-space"}],"href":"/ja/docs/core-concepts"},{"title":"スタイリング","order":4,"segment":"styling","children":[{"title":"表示モード (Display)","href":"/ja/docs/styling/display","order":1,"segment":"display"},{"title":"サイジング (Sizing)","href":"/ja/docs/styling/size","order":2,"segment":"size"},{"title":"アスペクト比 (Aspect Ratio)","href":"/ja/docs/styling/aspect-ratio","order":3,"segment":"aspect-ratio"},{"title":"マージン (Margin)","href":"/ja/docs/styling/margin","order":4,"segment":"margin"},{"title":"パディング (Padding)","href":"/ja/docs/styling/padding","order":5,"segment":"padding"},{"title":"ボーダー (Border)","href":"/ja/docs/styling/border","order":6,"segment":"border"},{"title":"ギャップ (Gap)","href":"/ja/docs/styling/gap","order":7,"segment":"gap"},{"title":"フレックス方向 (Flex Direction)","href":"/ja/docs/styling/flex-direction","order":8,"segment":"flex-direction"},{"title":"フレックス折り返し (Flex Wrap)","href":"/ja/docs/styling/flex-wrap","order":9,"segment":"flex-wrap"},{"title":"フレックス基準値 (Flex Basis)","href":"/ja/docs/styling/flex-basis","order":10,"segment":"flex-basis"},{"title":"フレックス成長 (Flex Grow)","href":"/ja/docs/styling/flex-grow","order":11,"segment":"flex-grow"},{"title":"フレックス収縮 (Flex Shrink)","href":"/ja/docs/styling/flex-shrink","order":12,"segment":"flex-shrink"},{"title":"主軸揃え (Justify Content)","href":"/ja/docs/styling/justify-content","order":13,"segment":"justify-content"},{"title":"交差軸揃え (Align Items)","href":"/ja/docs/styling/align-items","order":14,"segment":"align-items"},{"title":"自己配置 (Align Self)","href":"/ja/docs/styling/align-self","order":15,"segment":"align-self"},{"title":"行揃え (Align Content)","href":"/ja/docs/styling/align-content","order":16,"segment":"align-content"},{"title":"グリッドレイアウト (Grid)","href":"/ja/docs/styling/grid","order":17,"segment":"grid"},{"title":"グリッドテンプレート (Grid Template)","href":"/ja/docs/styling/grid-templates","order":18,"segment":"grid-templates"},{"title":"グリッド列 (Grid Column)","href":"/ja/docs/styling/grid-column","order":19,"segment":"grid-column"},{"title":"グリッド行 (Grid Row)","href":"/ja/docs/styling/grid-row","order":20,"segment":"grid-row"},{"title":"グリッド自動流 (Grid Auto Flow)","href":"/ja/docs/styling/grid-auto-flow","order":21,"segment":"grid-auto-flow"},{"title":"配置 (Positioning)","href":"/ja/docs/styling/position","order":22,"segment":"position"},{"title":"オフセット (Inset)","href":"/ja/docs/styling/inset","order":23,"segment":"inset"},{"title":"オーバーフロー (Overflow)","href":"/ja/docs/styling/overflow","order":24,"segment":"overflow"}],"href":"/ja/docs/styling"},{"title":"レイアウトクックブック","order":5,"segment":"cookbook","children":[{"title":"フレックス行カード","href":"/ja/docs/cookbook/flex-row-cards","order":1,"segment":"flex-row-cards"},{"title":"グリッドダッシュボード","href":"/ja/docs/cookbook/grid-dashboard","order":2,"segment":"grid-dashboard"},{"title":"Holy Grail レイアウト","href":"/ja/docs/cookbook/holy-grail-layout","order":3,"segment":"holy-grail-layout"},{"title":"スティッキーフッター","href":"/ja/docs/cookbook/sticky-footer","order":4,"segment":"sticky-footer"},{"title":"メディアカード","href":"/ja/docs/cookbook/media-card","order":5,"segment":"media-card"}],"href":"/ja/docs/cookbook"},{"title":"高度なトピック","order":6,"segment":"advanced","children":[{"title":"デバッグ","href":"/ja/docs/advanced/debugging","order":1,"segment":"debugging"},{"title":"エラー処理","href":"/ja/docs/advanced/error-handling","order":2,"segment":"error-handling"},{"title":"パフォーマンス","href":"/ja/docs/advanced/performance","order":2,"segment":"performance"}],"href":"/ja/docs/advanced"}]}]}]}]}],"$L16","$L17"]}]}],"$L18"]}]
+19:I[711068,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1a:I[458663,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1b:I[604927,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+22:I[762089,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1c:T1b3b,/**
+ * @module taffy-preview
+ * @description Preview visualizer for Taffy Layout structures.
+ * Intercepts Taffy tree operations to collect layout data and renders
+ * a visual representation of the nodes.
+ */
+
+const colorPalette = [
+  "#60a5fa",
+  "#34d399",
+  "#fbbf24",
+  "#f472b6",
+  "#c084fc",
+  "#f97316",
+];
+
+interface PreviewLayout {
+  width: number;
+  height: number;
+  x: number;
+  y: number;
+}
+
+interface PreviewTree {
+  getLayout(node: unknown): PreviewLayout;
+  __previewChildren: Map<unknown, unknown[]>;
+}
+
+function getChildrenMap(tree: PreviewTree) {
+  if (!tree.__previewChildren) tree.__previewChildren = new Map();
+  return tree.__previewChildren;
+}
+
+function wrapTree(mod: {
+  TaffyTree: { prototype: Record<string, unknown> };
+  __previewWrapped?: boolean;
+}) {
+  if (!mod?.TaffyTree || mod.__previewWrapped) return;
+  const proto = mod.TaffyTree.prototype as {
+    newLeaf: unknown;
+    newWithChildren: unknown;
+    addChild: unknown;
+  };
+  const originalNewLeaf = proto.newLeaf as (style: unknown) => unknown;
+  const originalNewWithChildren = proto.newWithChildren as (
+    style: unknown,
+    children: unknown[],
+  ) => unknown;
+  const originalAddChild = proto.addChild as (
+    parent: unknown,
+    child: unknown,
+  ) => unknown;
+
+  proto.newLeaf = function (style: unknown) {
+    const node = originalNewLeaf.call(this, style);
+    getChildrenMap(this as unknown as PreviewTree).set(node, []);
+    return node;
+  };
+
+  proto.newWithChildren = function (style: unknown, children: unknown[] = []) {
+    const node = originalNewWithChildren.call(this, style, children);
+    getChildrenMap(this as unknown as PreviewTree).set(node, children);
+    return node;
+  };
+
+  if (typeof originalAddChild === "function") {
+    proto.addChild = function (parent: unknown, child: unknown) {
+      const result = originalAddChild.call(this, parent, child);
+      const map = getChildrenMap(this as unknown as PreviewTree);
+      const list = map.get(parent) || [];
+      if (!list.includes(child)) list.push(child);
+      map.set(parent, list);
+      if (!map.has(child)) map.set(child, []);
+      return result;
+    };
+  }
+  mod.__previewWrapped = true;
+}
+
+function collectNodesWithPositions(tree: PreviewTree, root: unknown) {
+  const map = getChildrenMap(tree);
+  const visited = new Set<unknown>();
+  const result: {
+    node: unknown;
+    layout: PreviewLayout;
+    x: number;
+    y: number;
+    isLeaf: boolean;
+  }[] = [];
+
+  const walk = (node: unknown, offsetX: number, offsetY: number) => {
+    if (!node || visited.has(node)) return;
+    visited.add(node);
+    const layout = tree.getLayout(node);
+    const x = (layout?.x ?? 0) + offsetX;
+    const y = (layout?.y ?? 0) + offsetY;
+    const children = map.get(node) || [];
+    result.push({ node, layout, x, y, isLeaf: children.length === 0 });
+    children.forEach((child: unknown) => walk(child, x, y));
+  };
+
+  walk(root, 0, 0);
+  return result;
+}
+
+/**
+ * Visualizes a Taffy Layout tree.
+ *
+ * Renders a set of nested boxes representing the layout nodes,
+ * displaying their dimensions and positions.
+ *
+ * @param props.tree - The preview-wrapped Taffy tree interface.
+ * @param props.root - The root node of the layout to visualize.
+ * @returns A React component rendering the layout visualization.
+ */
+export function TaffyTreePreview({
+  tree,
+  root,
+}: {
+  tree: PreviewTree;
+  root: unknown;
+}) {
+  if (!tree || !root || typeof tree.getLayout !== "function") {
+    return <div style={{ padding: 12 }}>No layout data.</div>;
+  }
+  const nodes = collectNodesWithPositions(tree, root);
+  const rootLayout = tree.getLayout(root);
+  const width = rootLayout?.width ?? 0;
+  const height = rootLayout?.height ?? 0;
+
+  return (
+    <div
+      style={{
+        display: "inline-block",
+        verticalAlign: "top",
+        maxWidth: "100%",
+        overflow: "visible",
+        boxSizing: "border-box",
+        padding: "4px", // Tiny padding for shadows
+        backgroundColor: "transparent",
+      }}
+    >
+      <div
+        style={{
+          position: "relative",
+          width,
+          height,
+          backgroundColor: "rgba(191, 219, 254, 0.45)",
+          backdropFilter: "blur(14px)",
+          WebkitBackdropFilter: "blur(14px)",
+          boxShadow: "inset 0 0 0 1px rgba(255, 255, 255, 0.5)",
+          overflow: "hidden",
+          borderRadius: 16,
+          boxSizing: "border-box",
+        }}
+      >
+        {nodes.map(({ layout, x, y, isLeaf }, index) => {
+          const color =
+            index === 0
+              ? "var(--taffy-root-bg, rgba(255, 255, 255, 0.45))"
+              : colorPalette[(index - 1) % colorPalette.length];
+          return (
+            <div
+              key={index}
+              style={{
+                position: "absolute",
+                left: x,
+                top: y,
+                width: layout.width ?? 0,
+                height: layout.height ?? 0,
+                background: color,
+                backdropFilter: "blur(8px)",
+                WebkitBackdropFilter: "blur(8px)",
+                borderRadius: 12,
+                color:
+                  index === 0 ? "var(--taffy-root-text, #1e293b)" : "#1e293b",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontSize: 11,
+                fontWeight: 800,
+                boxShadow:
+                  "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)",
+                pointerEvents: "none",
+                boxSizing: "border-box",
+                border:
+                  index === 0
+                    ? "var(--taffy-root-border, 1.5px solid rgba(255, 255, 255, 0.7))"
+                    : "2px solid rgba(255,255,255,0.4)",
+                transition: "all 0.2s ease",
+              }}
+            >
+              {isLeaf && layout.width > 30 && layout.height > 15 ? (
+                <span style={{ textShadow: "0 1px 2px rgba(255,255,255,0.2)" }}>
+                  {(layout.width % 1 === 0
+                    ? layout.width
+                    : layout.width.toFixed(1)) +
+                    "×" +
+                    (layout.height % 1 === 0
+                      ? layout.height
+                      : layout.height.toFixed(1))}
+                </span>
+              ) : (
+                ""
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/**
+ * Registers the preview mechanism by wrapping the Taffy module.
+ *
+ * @param mod - The Taffy WASM module to instrument.
+ */
+export function registerPreview(mod: {
+  TaffyTree: unknown;
+  TaffyTreePreview?: unknown;
+}) {
+  wrapTree(
+    mod as {
+      TaffyTree: { prototype: Record<string, unknown> };
+      __previewWrapped?: boolean;
+    },
+  );
+  if (mod) {
+    mod.TaffyTreePreview = TaffyTreePreview;
+  }
+  if (typeof globalThis !== "undefined") {
+    (globalThis as unknown as { TaffyTreePreview: unknown }).TaffyTreePreview =
+      TaffyTreePreview;
+  }
+}
+1d:T157c,/**
+ * @module sandbox-setup
+ * @description Initialization script for the Sandpack environment.
+ * Sets up the Taffy layout engine and polyfills Web Crypto API if needed.
+ */
+
+import { registerPreview } from "./taffy-preview";
+
+type DigestAlgorithm = "SHA-1" | "SHA-256" | "SHA-384" | "SHA-512";
+
+/**
+ * Converts a BufferSource to a Uint8Array.
+ *
+ * @param data - The buffer source to convert.
+ * @returns A Uint8Array view of the data.
+ */
+function toUint8Array(data: BufferSource) {
+  if (data instanceof ArrayBuffer) return new Uint8Array(data);
+  if (ArrayBuffer.isView(data)) {
+    return new Uint8Array(data.buffer, data.byteOffset, data.byteLength);
+  }
+  return new Uint8Array();
+}
+
+const fallbackGetRandomValues = (array: Uint8Array) => {
+  for (let i = 0; i < array.length; i += 1) {
+    array[i] = Math.floor(Math.random() * 256);
+  }
+  return array;
+};
+
+const fallbackSubtle = {
+  digest: async (algorithm: AlgorithmIdentifier, data: BufferSource) => {
+    const name =
+      typeof algorithm === "string"
+        ? algorithm
+        : (algorithm as { name?: string })?.name || "";
+    const normalized = name.toUpperCase() as DigestAlgorithm;
+    const bytes = toUint8Array(data);
+    const { sha1 } = await import("@noble/hashes/legacy.js");
+    const { sha256, sha384, sha512 } = await import("@noble/hashes/sha2.js");
+    let hash: Uint8Array;
+
+    switch (normalized) {
+      case "SHA-1":
+        hash = sha1(bytes);
+        break;
+      case "SHA-384":
+        hash = sha384(bytes);
+        break;
+      case "SHA-512":
+        hash = sha512(bytes);
+        break;
+      case "SHA-256":
+      default:
+        hash = sha256(bytes);
+        break;
+    }
+
+    return hash.buffer.slice(
+      hash.byteOffset,
+      hash.byteOffset + hash.byteLength,
+    );
+  },
+};
+
+/**
+ * Polyfills the Web Crypto API's digest and getRandomValues functions.
+ * required for some dependencies within the sandbox.
+ */
+function applyCryptoPolyfill() {
+  const existing = globalThis.crypto as Crypto | undefined;
+
+  if (!existing) {
+    try {
+      Object.defineProperty(globalThis, "crypto", {
+        value: {
+          subtle: fallbackSubtle,
+          getRandomValues: fallbackGetRandomValues,
+        },
+        configurable: true,
+      });
+    } catch {
+      // Ignore if read-only
+    }
+    return;
+  }
+
+  if (!existing.subtle || !(existing.subtle as SubtleCrypto).digest) {
+    try {
+      Object.defineProperty(existing, "subtle", {
+        value: fallbackSubtle,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (existing as unknown as { subtle: SubtleCrypto }).subtle =
+          fallbackSubtle as SubtleCrypto;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+
+  if (!existing.getRandomValues) {
+    try {
+      Object.defineProperty(existing, "getRandomValues", {
+        value: fallbackGetRandomValues,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (
+          existing as unknown as {
+            getRandomValues: typeof fallbackGetRandomValues;
+          }
+        ).getRandomValues = fallbackGetRandomValues;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+}
+
+applyCryptoPolyfill();
+
+/**
+ * Ensures a robust Web Crypto implementation is available.
+ * Attempts to borrow from Node's crypto if global crypto is insufficient.
+ */
+async function ensureWebCrypto() {
+  const existing = globalThis.crypto as Crypto | undefined;
+  if (existing?.subtle?.digest) return;
+
+  try {
+    const nodeCrypto = await import("crypto");
+    if (nodeCrypto?.webcrypto?.subtle) {
+      const nodeSubtle = nodeCrypto.webcrypto.subtle as SubtleCrypto;
+      const nodeGetRandomValues = nodeCrypto.webcrypto.getRandomValues?.bind(
+        nodeCrypto.webcrypto,
+      );
+      const current = globalThis.crypto as Crypto | undefined;
+      if (
+        current &&
+        (!current.subtle || !(current.subtle as SubtleCrypto).digest)
+      ) {
+        try {
+          Object.defineProperty(current, "subtle", {
+            value: nodeSubtle,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (current as unknown as { subtle: SubtleCrypto }).subtle =
+              nodeSubtle;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+      if (current && !current.getRandomValues && nodeGetRandomValues) {
+        try {
+          Object.defineProperty(current, "getRandomValues", {
+            value: nodeGetRandomValues,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (
+              current as unknown as {
+                getRandomValues: typeof nodeGetRandomValues;
+              }
+            ).getRandomValues = nodeGetRandomValues;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+    }
+  } catch {
+    // Ignore and keep polyfill
+  }
+}
+
+/**
+ * Loads the Taffy Layout WASM module and registers the preview.
+ *
+ * @returns The loaded Taffy module.
+ */
+async function loadTaffy() {
+  try {
+    await ensureWebCrypto();
+    const wasmUrl =
+      "https://unpkg.com/taffy-layout@latest/pkg/taffy_wasm_bg.wasm";
+    const mod = await import("taffy-layout/wasm");
+    if (mod && typeof mod.default === "function") {
+      await mod.default(wasmUrl);
+    }
+    Object.assign(globalThis, mod);
+    registerPreview(mod);
+    return mod;
+  } catch (error) {
+    console.error("Failed to load taffy-layout wasm", error);
+    throw error;
+  }
+}
+
+export const ready = loadTaffy();
+16:["$","main",null,{"className":"min-w-0","children":[["$","$L19",null,{"items":"$9:props:children:2:props:children:props:children:0:props:children:props:children:props:items","ui":"$9:props:children:1:props:ui"}],["$","$L1a",null,{"motionKey":"content-cookbook/media-card","children":["$","div",null,{"className":"rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-10 dark:border-slate-800 dark:bg-slate-900","children":[null,["$","div",null,{"className":"doc-content","children":[["$","h1",null,{"id":"メディアカード","children":["$","a",null,{"href":"#メディアカード","className":"anchor-link","children":"メディアカード"}]}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"画像 + テキストレイアウト、固定メディアとフレキシブルなテキストコンテンツ。"}]}],"\n",["$","pre",null,{"className":"overflow-x-auto language-text language-text","suppressHydrationWarning":true,"children":["$","$L1b",null,{"className":"language-text code-highlight","data-language":"text","children":[["$","span",null,{"className":"code-line","children":"┌────────────────────────────┐\n"}],["$","span",null,{"className":"code-line","children":"│ [Image]  Title             │\n"}],["$","span",null,{"className":"code-line","children":"│          Subtitle          │\n"}],["$","span",null,{"className":"code-line","children":"└────────────────────────────┘\n"}]],"templates":{"previewHelpers":"$1c","setup":"$1d","reactIndex":"/**\n * @module features/code/lib/sandpack-assets/react-index\n * @description Entry point for the React Sandpack environment.\n * Initializes the React root and renders the user's App component.\n */\n\nimport { ready } from \"./sandbox-setup\";\nimport { createRoot } from \"react-dom/client\";\n// @ts-expect-error -- Sandpack issue\nimport App from \"./App\";\n\nready.then(() => {\n  // Mount the application once the sandbox environment is ready\n  const root = document.getElementById(\"root\");\n  if (root) createRoot(root).render(<App />);\n});\n","tsIndex":"/**\n * @module features/code/lib/sandpack-assets/ts-index\n * @description Entry point for the Vanilla TypeScript Sandpack environment.\n * Waits for the environment to be ready and then executes the user's code.\n */\n\nimport { ready } from \"./sandbox-setup\";\nready.then(() => {\n  // {{CODE}} - This placeholder is replaced at runtime with the user's TypeScript code.\n});\n"},"inline":false}]}],"\n","$L1e","\n","$L1f","\n","$L20","\n","$L21"]}]]}]}]]}]
+17:["$","aside",null,{"className":"doc-layout__toc hidden xl:block","children":["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":["$","$L1a",null,{"motionKey":"toc-cookbook/media-card","children":["$","$L22",null,{"items":[{"id":"コード","text":"コード","level":2},{"id":"関連ガイド","text":"関連ガイド","level":2}],"title":"このページ"}]}]}]}]
+18:["$","footer",null,{"className":"border-t border-slate-200 bg-white/90 dark:border-slate-800 dark:bg-slate-900/90","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-center px-4 py-8 text-sm text-slate-500 sm:px-6 lg:px-8 dark:text-slate-400","children":["$","p",null,{"children":["© ",2026," ByteLand Technology Limited"]}]}]}]
+23:I[522016,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],""]
+1e:["$","h2",null,{"id":"コード","children":["$","a",null,{"href":"#コード","className":"anchor-link","children":"コード"}]}]
+1f:["$","div",null,{"className":"my-6","children":["$","$L1b",null,{"className":"language-text code-highlight","data-language":"tsx","data-meta":"live","data-raw-code":"const tree = new TaffyTree();\n\nconst cardStyle = new Style({\n  display: Display.Flex,\n  flexDirection: FlexDirection.Row,\n  gap: { width: 12, height: 0 },\n  size: { width: 420, height: 120 },\n  padding: { left: 12, right: 12, top: 12, bottom: 12 },\n});\n\nconst image = tree.newLeaf(\n  new Style({\n    size: { width: 80, height: 80 },\n  }),\n);\n\nconst textContainer = tree.newWithChildren(\n  new Style({\n    display: Display.Flex,\n    flexDirection: FlexDirection.Column,\n    flexGrow: 1,\n    gap: { width: 0, height: 6 },\n  }),\n  [\n    tree.newLeaf(new Style({ size: { width: \"100%\", height: 20 } })), // タイトルプレースホルダー\n    tree.newLeaf(new Style({ size: { width: \"60%\", height: 16 } })), // サブタイトルプレースホルダー\n  ],\n);\n\nconst root = tree.newWithChildren(cardStyle, [image, textContainer]);\n\ntree.computeLayout(root, { width: 420, height: 120 });\n\nreturn <TaffyTreePreview tree={tree} root={root} />;","children":[["$","span",null,{"className":"code-line","children":"const tree = new TaffyTree();\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"const cardStyle = new Style({\n"}],["$","span",null,{"className":"code-line","children":"  display: Display.Flex,\n"}],["$","span",null,{"className":"code-line","children":"  flexDirection: FlexDirection.Row,\n"}],["$","span",null,{"className":"code-line","children":"  gap: { width: 12, height: 0 },\n"}],["$","span",null,{"className":"code-line","children":"  size: { width: 420, height: 120 },\n"}],["$","span",null,{"className":"code-line","children":"  padding: { left: 12, right: 12, top: 12, bottom: 12 },\n"}],["$","span",null,{"className":"code-line","children":"});\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"const image = tree.newLeaf(\n"}],["$","span",null,{"className":"code-line","children":"  new Style({\n"}],["$","span",null,{"className":"code-line","children":"    size: { width: 80, height: 80 },\n"}],["$","span",null,{"className":"code-line","children":"  }),\n"}],["$","span",null,{"className":"code-line","children":");\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"const textContainer = tree.newWithChildren(\n"}],["$","span",null,{"className":"code-line","children":"  new Style({\n"}],["$","span",null,{"className":"code-line","children":"    display: Display.Flex,\n"}],["$","span",null,{"className":"code-line","children":"    flexDirection: FlexDirection.Column,\n"}],["$","span",null,{"className":"code-line","children":"    flexGrow: 1,\n"}],["$","span",null,{"className":"code-line","children":"    gap: { width: 0, height: 6 },\n"}],["$","span",null,{"className":"code-line","children":"  }),\n"}],["$","span",null,{"className":"code-line","children":"  [\n"}],["$","span",null,{"className":"code-line","children":"    tree.newLeaf(new Style({ size: { width: \"100%\", height: 20 } })), // タイトルプレースホルダー\n"}],["$","span",null,{"className":"code-line","children":"    tree.newLeaf(new Style({ size: { width: \"60%\", height: 16 } })), // サブタイトルプレースホルダー\n"}],["$","span",null,{"className":"code-line","children":"  ],\n"}],["$","span",null,{"className":"code-line","children":");\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"const root = tree.newWithChildren(cardStyle, [image, textContainer]);\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"tree.computeLayout(root, { width: 420, height: 120 });\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"return <TaffyTreePreview tree={tree} root={root} />;\n"}]],"templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:props:templates","inline":false}]}]
+20:["$","h2",null,{"id":"関連ガイド","children":["$","a",null,{"href":"#関連ガイド","className":"anchor-link","children":"関連ガイド"}]}]
+21:["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","strong",null,{"children":["$","$L23",null,{"href":"/ja/docs/styling/flex-direction","children":"フレックス方向"}]}]}],"\n",["$","li",null,{"children":["$","strong",null,{"children":["$","$L23",null,{"href":"/ja/docs/styling/align-items","children":"アラインアイテム"}]}]}],"\n"]}]

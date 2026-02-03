@@ -1,0 +1,489 @@
+1:"$Sreact.fragment"
+2:I[454125,["/_next/static/chunks/7f4e6b683fb77d76.js"],"MicrosoftClarity"]
+3:I[38246,["/_next/static/chunks/7f4e6b683fb77d76.js"],"ThemeProvider"]
+4:I[801801,["/_next/static/chunks/7f4e6b683fb77d76.js"],"Providers"]
+5:I[246417,["/_next/static/chunks/7f4e6b683fb77d76.js"],"ErrorBoundary"]
+6:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+7:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+9:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"ViewportBoundary"]
+e:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"MetadataBoundary"]
+10:I[168027,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"default"]
+:HL["/_next/static/chunks/3c6b676c784d9a85.css","style"]
+:HL["/_next/static/chunks/c66ac195687e0cc5.css","style"]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"tOapCMotD9RyHJzviuaQ-","c":["","docs","styling","grid-auto-flow"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","styling/grid-auto-flow","oc"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3c6b676c784d9a85.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/c66ac195687e0cc5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/7f4e6b683fb77d76.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"className":"exo_2_573c8e2-module__WvtsaG__variable jetbrains_mono_f8290d5a-module__2Nw1lG__variable","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen antialiased","children":[["$","$L2",null,{"projectId":""}],["$","a",null,{"href":"#main-content","className":"skip-link","children":"Skip to content"}],["$","$L3",null,{"defaultTheme":"system","enableSystem":true,"storageKey":"taffy-theme","children":["$","$L4",null,{"children":["$","$L5",null,{"children":["$","div",null,{"id":"main-content","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/27da104fd0ed3672.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/cedfca1d4b4ee591.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/870949d44eec98cb.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/a1bc20a569d2ad82.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[]],"S":true}
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"IconMark"]
+b:null
+f:[["$","title","0",{"children":"Grid Auto Flow | Taffy Layout"}],["$","meta","1",{"name":"author","content":"Taffy Contributors"}],["$","meta","2",{"name":"keywords","content":"layout,flexbox,grid,rust,wasm,ui,taffy,css,browser,server"}],["$","link","3",{"rel":"canonical","href":"https://taffylayout.com/docs/styling/grid-auto-flow"}],["$","link","4",{"rel":"alternate","hrefLang":"en-US","href":"https://taffylayout.com"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://taffylayout.com/zh"}],["$","link","6",{"rel":"alternate","hrefLang":"ja-JP","href":"https://taffylayout.com/ja"}],["$","meta","7",{"property":"og:title","content":"Taffy Layout"}],["$","meta","8",{"property":"og:description","content":"High performance flexbox and grid layout engine"}],["$","meta","9",{"property":"og:url","content":"https://taffylayout.com"}],["$","meta","10",{"property":"og:site_name","content":"Taffy Layout"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://taffylayout.com/favicon.png"}],["$","meta","13",{"property":"og:image:width","content":"512"}],["$","meta","14",{"property":"og:image:height","content":"512"}],["$","meta","15",{"property":"og:image:alt","content":"Taffy Layout"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Taffy Layout"}],["$","meta","19",{"name":"twitter:description","content":"High performance flexbox and grid layout engine"}],["$","meta","20",{"name":"twitter:image","content":"https://taffylayout.com/favicon.png"}],["$","link","21",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","22",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L11","23",{}]]
+8:["$","div",null,{"data-pagefind-filter":"lang:en","className":"contents","children":"$L12"}]
+13:I[961232,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+14:I[47654,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+12:["$","div",null,{"className":"min-h-screen bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-50","children":[["$","$L13",null,{}],["$","$L14",null,{"locale":"en","navGroups":[{"key":"docs","title":"Documentation","href":"/docs"},{"key":"api","title":"API","href":"/docs/api"},{"key":"benchmark","title":"Benchmark","href":"/benchmark"},{"key":"playground","title":"Playground","href":"/playground"}],"activeGroup":"docs","ui":{"docs":"Documentation","gettingStarted":"Getting Started","api":"API","benchmark":"Benchmark","playground":"Playground","navigation":"Navigation","close":"Close","menu":"Menu","docsGroups":"Docs groups","inThisGroup":"In this group","browseDocs":"Browse docs","onThisPage":"On this page","docSubtitle":"Documentation","notFoundTitle":"Page not found","notFoundBody":"The documentation page you are looking for does not exist.","backHome":"Back to home","langLabel":"Language","changelog":"Changelog","changelogNotTranslated":"This page is only available in English. Please switch to English to view the changelog.","missingTranslation":"This page is not yet translated. Showing English.","homeTitle":"Why Taffy?","homeSubtitle":"A quick overview of what makes Taffy Layout special.","entryPoints":"Entry points","whyTaffy":"Why Taffy","open":"Open","closeMenu":"Close menu","openMenu":"Open menu","builtWith":"Built with Rust & WASM","heroDescription":"A fast, flexible, and robust flexbox and grid layout engine for every platform.","flexboxGrid":"Flexbox and Grid layouts without a DOM.","fastDeterministic":"Fast, deterministic layout for custom renderers.","portableAPI":"Portable API built for real-world UI engines.","fullBenchmarkSuite":"Benchmark","run":"Run","stop":"Stop","scenario":"SCENARIO","buildPhase":"BUILD PHASE","layoutPhase":"LAYOUT PHASE","pending":"Pending","faster":"faster","slower":"slower","taffyPlayground":"Playground","presetFlexBetween":"Flex · Space Between","presetFlexBetweenDesc":"A row container distributing space between cards.","presetFlexCenter":"Flex · Center","presetFlexCenterDesc":"Items centered in the container.","presetFlexGrow":"Flex · Grow","presetFlexGrowDesc":"Items grow proportionally to fill the row.","presetFlexWrap":"Flex · Wrap","presetFlexWrapDesc":"Wrapping layout with align-content controls.","presetGridBasic":"Grid · Basic","presetGridBasicDesc":"Auto-placed grid tracks with fixed sizes.","presetGridSpans":"Grid · Spans","presetGridSpansDesc":"Mix spans to highlight grid placement.","themeToggle":"Toggle theme","themeSwitchToLight":"Switch to light mode","themeSwitchToDark":"Switch to dark mode","themeLightLabel":"Light mode","themeDarkLabel":"Dark mode","githubTooltip":"GitHub repository","languageTooltip":"Select language","languageMenuLabel":"Select language","searchDocs":"Search docs…","searchDocumentation":"Search documentation","searchTooltip":"Search documentation","searchPlaceholder":"Search documentation…","searchResults":"Search results","noResultsFound":"No results found for","nestedNodes":"Nested / {{count}} Nodes","flatNodes":"Flat / {{count}} Nodes","binaryNodes":"Binary / {{count}} Nodes","chainLevels":"Chain / {{count}} Levels","docsDesc":"Start with the guided overview and the full docs map.","apiDesc":"Typed API docs, enums, classes, and functions.","benchmarkDesc":"Run the full performance suite in the browser.","playgroundDesc":"Experiment with layouts and visualize results.","fullScreenEditor":"Full Screen Editor","console":"Console"}}],["$","div",null,{"className":"mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8","children":["$","div",null,{"className":"doc-layout grid gap-8 lg:grid-cols-[280px,minmax(0,1fr)] xl:grid-cols-[280px,minmax(0,1fr),220px]","children":[["$","aside",null,{"className":"doc-layout__sidebar hidden lg:block","children":["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":"$L15"}]}],"$L16","$L17"]}]}],"$L18"]}]
+19:I[67575,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1a:I[711068,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1b:I[458663,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+1c:I[604927,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+29:I[762089,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+15:["$","$L19",null,{"items":[{"title":"Documentation","segment":"docs","order":0,"href":"/docs","children":[{"title":"About Taffy","href":"/docs/about-taffy","order":1,"segment":"about-taffy"},{"title":"Getting Started","order":2,"segment":"getting-started","children":[{"title":"Installation","href":"/docs/getting-started/installation","order":1,"segment":"installation"},{"title":"Quick Start","href":"/docs/getting-started/quick-start","order":2,"segment":"quick-start"},{"title":"Building Trees","href":"/docs/getting-started/building-trees","order":3,"segment":"building-trees"},{"title":"Computing Layouts","href":"/docs/getting-started/computing-layouts","order":4,"segment":"computing-layouts"},{"title":"Configuration","href":"/docs/getting-started/configuration","order":5,"segment":"configuration"}],"href":"/docs/getting-started"},{"title":"Core Concepts","order":3,"segment":"core-concepts","children":[{"title":"The Style Object","href":"/docs/core-concepts/objects-style","order":1,"segment":"objects-style"},{"title":"The TaffyTree Object","href":"/docs/core-concepts/objects-taffy-tree","order":2,"segment":"objects-taffy-tree"},{"title":"The Layout Object","href":"/docs/core-concepts/objects-layout","order":3,"segment":"objects-layout"},{"title":"Size, Space, and Units","href":"/docs/core-concepts/size-and-space","order":4,"segment":"size-and-space"},{"title":"Measure Functions","href":"/docs/core-concepts/measure-functions","order":5,"segment":"measure-functions"}],"href":"/docs/core-concepts"},{"title":"Styling","order":4,"segment":"styling","children":[{"title":"Display","href":"/docs/styling/display","order":1,"segment":"display"},{"title":"Sizing","href":"/docs/styling/size","order":2,"segment":"size"},{"title":"Aspect Ratio","href":"/docs/styling/aspect-ratio","order":3,"segment":"aspect-ratio"},{"title":"Margin","href":"/docs/styling/margin","order":4,"segment":"margin"},{"title":"Padding","href":"/docs/styling/padding","order":5,"segment":"padding"},{"title":"Border","href":"/docs/styling/border","order":6,"segment":"border"},{"title":"Gap","href":"/docs/styling/gap","order":7,"segment":"gap"},{"title":"Flex Direction","href":"/docs/styling/flex-direction","order":8,"segment":"flex-direction"},{"title":"Flex Wrap","href":"/docs/styling/flex-wrap","order":9,"segment":"flex-wrap"},{"title":"Flex Basis","href":"/docs/styling/flex-basis","order":10,"segment":"flex-basis"},{"title":"Flex Grow","href":"/docs/styling/flex-grow","order":11,"segment":"flex-grow"},{"title":"Flex Shrink","href":"/docs/styling/flex-shrink","order":12,"segment":"flex-shrink"},{"title":"Justify Content","href":"/docs/styling/justify-content","order":13,"segment":"justify-content"},{"title":"Align Items","href":"/docs/styling/align-items","order":14,"segment":"align-items"},{"title":"Align Self","href":"/docs/styling/align-self","order":15,"segment":"align-self"},{"title":"Align Content","href":"/docs/styling/align-content","order":16,"segment":"align-content"},{"title":"Grid","href":"/docs/styling/grid","order":17,"segment":"grid"},{"title":"Grid Template","href":"/docs/styling/grid-templates","order":18,"segment":"grid-templates"},{"title":"Grid Column","href":"/docs/styling/grid-column","order":19,"segment":"grid-column"},{"title":"Grid Row","href":"/docs/styling/grid-row","order":20,"segment":"grid-row"},{"title":"Grid Auto Flow","href":"/docs/styling/grid-auto-flow","order":21,"segment":"grid-auto-flow"},{"title":"Positioning","href":"/docs/styling/position","order":22,"segment":"position"},{"title":"Inset","href":"/docs/styling/inset","order":23,"segment":"inset"},{"title":"Overflow","href":"/docs/styling/overflow","order":24,"segment":"overflow"}],"href":"/docs/styling"},{"title":"Layout Cookbook","order":5,"segment":"cookbook","children":[{"title":"Flex Row Cards","href":"/docs/cookbook/flex-row-cards","order":1,"segment":"flex-row-cards"},{"title":"Grid Dashboard","href":"/docs/cookbook/grid-dashboard","order":2,"segment":"grid-dashboard"},{"title":"Holy Grail Layout","href":"/docs/cookbook/holy-grail-layout","order":3,"segment":"holy-grail-layout"},{"title":"Sticky Footer","href":"/docs/cookbook/sticky-footer","order":4,"segment":"sticky-footer"},{"title":"Media Card","href":"/docs/cookbook/media-card","order":5,"segment":"media-card"}],"href":"/docs/cookbook"},{"title":"Advanced Topics","order":6,"segment":"advanced","children":[{"title":"Debugging","href":"/docs/advanced/debugging","order":1,"segment":"debugging"},{"title":"Performance","href":"/docs/advanced/performance","order":2,"segment":"performance"},{"title":"Error Handling","href":"/docs/advanced/error-handling","order":3,"segment":"error-handling"}],"href":"/docs/advanced"}]}]}]
+1d:T1b3b,/**
+ * @module taffy-preview
+ * @description Preview visualizer for Taffy Layout structures.
+ * Intercepts Taffy tree operations to collect layout data and renders
+ * a visual representation of the nodes.
+ */
+
+const colorPalette = [
+  "#60a5fa",
+  "#34d399",
+  "#fbbf24",
+  "#f472b6",
+  "#c084fc",
+  "#f97316",
+];
+
+interface PreviewLayout {
+  width: number;
+  height: number;
+  x: number;
+  y: number;
+}
+
+interface PreviewTree {
+  getLayout(node: unknown): PreviewLayout;
+  __previewChildren: Map<unknown, unknown[]>;
+}
+
+function getChildrenMap(tree: PreviewTree) {
+  if (!tree.__previewChildren) tree.__previewChildren = new Map();
+  return tree.__previewChildren;
+}
+
+function wrapTree(mod: {
+  TaffyTree: { prototype: Record<string, unknown> };
+  __previewWrapped?: boolean;
+}) {
+  if (!mod?.TaffyTree || mod.__previewWrapped) return;
+  const proto = mod.TaffyTree.prototype as {
+    newLeaf: unknown;
+    newWithChildren: unknown;
+    addChild: unknown;
+  };
+  const originalNewLeaf = proto.newLeaf as (style: unknown) => unknown;
+  const originalNewWithChildren = proto.newWithChildren as (
+    style: unknown,
+    children: unknown[],
+  ) => unknown;
+  const originalAddChild = proto.addChild as (
+    parent: unknown,
+    child: unknown,
+  ) => unknown;
+
+  proto.newLeaf = function (style: unknown) {
+    const node = originalNewLeaf.call(this, style);
+    getChildrenMap(this as unknown as PreviewTree).set(node, []);
+    return node;
+  };
+
+  proto.newWithChildren = function (style: unknown, children: unknown[] = []) {
+    const node = originalNewWithChildren.call(this, style, children);
+    getChildrenMap(this as unknown as PreviewTree).set(node, children);
+    return node;
+  };
+
+  if (typeof originalAddChild === "function") {
+    proto.addChild = function (parent: unknown, child: unknown) {
+      const result = originalAddChild.call(this, parent, child);
+      const map = getChildrenMap(this as unknown as PreviewTree);
+      const list = map.get(parent) || [];
+      if (!list.includes(child)) list.push(child);
+      map.set(parent, list);
+      if (!map.has(child)) map.set(child, []);
+      return result;
+    };
+  }
+  mod.__previewWrapped = true;
+}
+
+function collectNodesWithPositions(tree: PreviewTree, root: unknown) {
+  const map = getChildrenMap(tree);
+  const visited = new Set<unknown>();
+  const result: {
+    node: unknown;
+    layout: PreviewLayout;
+    x: number;
+    y: number;
+    isLeaf: boolean;
+  }[] = [];
+
+  const walk = (node: unknown, offsetX: number, offsetY: number) => {
+    if (!node || visited.has(node)) return;
+    visited.add(node);
+    const layout = tree.getLayout(node);
+    const x = (layout?.x ?? 0) + offsetX;
+    const y = (layout?.y ?? 0) + offsetY;
+    const children = map.get(node) || [];
+    result.push({ node, layout, x, y, isLeaf: children.length === 0 });
+    children.forEach((child: unknown) => walk(child, x, y));
+  };
+
+  walk(root, 0, 0);
+  return result;
+}
+
+/**
+ * Visualizes a Taffy Layout tree.
+ *
+ * Renders a set of nested boxes representing the layout nodes,
+ * displaying their dimensions and positions.
+ *
+ * @param props.tree - The preview-wrapped Taffy tree interface.
+ * @param props.root - The root node of the layout to visualize.
+ * @returns A React component rendering the layout visualization.
+ */
+export function TaffyTreePreview({
+  tree,
+  root,
+}: {
+  tree: PreviewTree;
+  root: unknown;
+}) {
+  if (!tree || !root || typeof tree.getLayout !== "function") {
+    return <div style={{ padding: 12 }}>No layout data.</div>;
+  }
+  const nodes = collectNodesWithPositions(tree, root);
+  const rootLayout = tree.getLayout(root);
+  const width = rootLayout?.width ?? 0;
+  const height = rootLayout?.height ?? 0;
+
+  return (
+    <div
+      style={{
+        display: "inline-block",
+        verticalAlign: "top",
+        maxWidth: "100%",
+        overflow: "visible",
+        boxSizing: "border-box",
+        padding: "4px", // Tiny padding for shadows
+        backgroundColor: "transparent",
+      }}
+    >
+      <div
+        style={{
+          position: "relative",
+          width,
+          height,
+          backgroundColor: "rgba(191, 219, 254, 0.45)",
+          backdropFilter: "blur(14px)",
+          WebkitBackdropFilter: "blur(14px)",
+          boxShadow: "inset 0 0 0 1px rgba(255, 255, 255, 0.5)",
+          overflow: "hidden",
+          borderRadius: 16,
+          boxSizing: "border-box",
+        }}
+      >
+        {nodes.map(({ layout, x, y, isLeaf }, index) => {
+          const color =
+            index === 0
+              ? "var(--taffy-root-bg, rgba(255, 255, 255, 0.45))"
+              : colorPalette[(index - 1) % colorPalette.length];
+          return (
+            <div
+              key={index}
+              style={{
+                position: "absolute",
+                left: x,
+                top: y,
+                width: layout.width ?? 0,
+                height: layout.height ?? 0,
+                background: color,
+                backdropFilter: "blur(8px)",
+                WebkitBackdropFilter: "blur(8px)",
+                borderRadius: 12,
+                color:
+                  index === 0 ? "var(--taffy-root-text, #1e293b)" : "#1e293b",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontSize: 11,
+                fontWeight: 800,
+                boxShadow:
+                  "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)",
+                pointerEvents: "none",
+                boxSizing: "border-box",
+                border:
+                  index === 0
+                    ? "var(--taffy-root-border, 1.5px solid rgba(255, 255, 255, 0.7))"
+                    : "2px solid rgba(255,255,255,0.4)",
+                transition: "all 0.2s ease",
+              }}
+            >
+              {isLeaf && layout.width > 30 && layout.height > 15 ? (
+                <span style={{ textShadow: "0 1px 2px rgba(255,255,255,0.2)" }}>
+                  {(layout.width % 1 === 0
+                    ? layout.width
+                    : layout.width.toFixed(1)) +
+                    "×" +
+                    (layout.height % 1 === 0
+                      ? layout.height
+                      : layout.height.toFixed(1))}
+                </span>
+              ) : (
+                ""
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/**
+ * Registers the preview mechanism by wrapping the Taffy module.
+ *
+ * @param mod - The Taffy WASM module to instrument.
+ */
+export function registerPreview(mod: {
+  TaffyTree: unknown;
+  TaffyTreePreview?: unknown;
+}) {
+  wrapTree(
+    mod as {
+      TaffyTree: { prototype: Record<string, unknown> };
+      __previewWrapped?: boolean;
+    },
+  );
+  if (mod) {
+    mod.TaffyTreePreview = TaffyTreePreview;
+  }
+  if (typeof globalThis !== "undefined") {
+    (globalThis as unknown as { TaffyTreePreview: unknown }).TaffyTreePreview =
+      TaffyTreePreview;
+  }
+}
+1e:T157c,/**
+ * @module sandbox-setup
+ * @description Initialization script for the Sandpack environment.
+ * Sets up the Taffy layout engine and polyfills Web Crypto API if needed.
+ */
+
+import { registerPreview } from "./taffy-preview";
+
+type DigestAlgorithm = "SHA-1" | "SHA-256" | "SHA-384" | "SHA-512";
+
+/**
+ * Converts a BufferSource to a Uint8Array.
+ *
+ * @param data - The buffer source to convert.
+ * @returns A Uint8Array view of the data.
+ */
+function toUint8Array(data: BufferSource) {
+  if (data instanceof ArrayBuffer) return new Uint8Array(data);
+  if (ArrayBuffer.isView(data)) {
+    return new Uint8Array(data.buffer, data.byteOffset, data.byteLength);
+  }
+  return new Uint8Array();
+}
+
+const fallbackGetRandomValues = (array: Uint8Array) => {
+  for (let i = 0; i < array.length; i += 1) {
+    array[i] = Math.floor(Math.random() * 256);
+  }
+  return array;
+};
+
+const fallbackSubtle = {
+  digest: async (algorithm: AlgorithmIdentifier, data: BufferSource) => {
+    const name =
+      typeof algorithm === "string"
+        ? algorithm
+        : (algorithm as { name?: string })?.name || "";
+    const normalized = name.toUpperCase() as DigestAlgorithm;
+    const bytes = toUint8Array(data);
+    const { sha1 } = await import("@noble/hashes/legacy.js");
+    const { sha256, sha384, sha512 } = await import("@noble/hashes/sha2.js");
+    let hash: Uint8Array;
+
+    switch (normalized) {
+      case "SHA-1":
+        hash = sha1(bytes);
+        break;
+      case "SHA-384":
+        hash = sha384(bytes);
+        break;
+      case "SHA-512":
+        hash = sha512(bytes);
+        break;
+      case "SHA-256":
+      default:
+        hash = sha256(bytes);
+        break;
+    }
+
+    return hash.buffer.slice(
+      hash.byteOffset,
+      hash.byteOffset + hash.byteLength,
+    );
+  },
+};
+
+/**
+ * Polyfills the Web Crypto API's digest and getRandomValues functions.
+ * required for some dependencies within the sandbox.
+ */
+function applyCryptoPolyfill() {
+  const existing = globalThis.crypto as Crypto | undefined;
+
+  if (!existing) {
+    try {
+      Object.defineProperty(globalThis, "crypto", {
+        value: {
+          subtle: fallbackSubtle,
+          getRandomValues: fallbackGetRandomValues,
+        },
+        configurable: true,
+      });
+    } catch {
+      // Ignore if read-only
+    }
+    return;
+  }
+
+  if (!existing.subtle || !(existing.subtle as SubtleCrypto).digest) {
+    try {
+      Object.defineProperty(existing, "subtle", {
+        value: fallbackSubtle,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (existing as unknown as { subtle: SubtleCrypto }).subtle =
+          fallbackSubtle as SubtleCrypto;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+
+  if (!existing.getRandomValues) {
+    try {
+      Object.defineProperty(existing, "getRandomValues", {
+        value: fallbackGetRandomValues,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (
+          existing as unknown as {
+            getRandomValues: typeof fallbackGetRandomValues;
+          }
+        ).getRandomValues = fallbackGetRandomValues;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+}
+
+applyCryptoPolyfill();
+
+/**
+ * Ensures a robust Web Crypto implementation is available.
+ * Attempts to borrow from Node's crypto if global crypto is insufficient.
+ */
+async function ensureWebCrypto() {
+  const existing = globalThis.crypto as Crypto | undefined;
+  if (existing?.subtle?.digest) return;
+
+  try {
+    const nodeCrypto = await import("crypto");
+    if (nodeCrypto?.webcrypto?.subtle) {
+      const nodeSubtle = nodeCrypto.webcrypto.subtle as SubtleCrypto;
+      const nodeGetRandomValues = nodeCrypto.webcrypto.getRandomValues?.bind(
+        nodeCrypto.webcrypto,
+      );
+      const current = globalThis.crypto as Crypto | undefined;
+      if (
+        current &&
+        (!current.subtle || !(current.subtle as SubtleCrypto).digest)
+      ) {
+        try {
+          Object.defineProperty(current, "subtle", {
+            value: nodeSubtle,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (current as unknown as { subtle: SubtleCrypto }).subtle =
+              nodeSubtle;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+      if (current && !current.getRandomValues && nodeGetRandomValues) {
+        try {
+          Object.defineProperty(current, "getRandomValues", {
+            value: nodeGetRandomValues,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (
+              current as unknown as {
+                getRandomValues: typeof nodeGetRandomValues;
+              }
+            ).getRandomValues = nodeGetRandomValues;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+    }
+  } catch {
+    // Ignore and keep polyfill
+  }
+}
+
+/**
+ * Loads the Taffy Layout WASM module and registers the preview.
+ *
+ * @returns The loaded Taffy module.
+ */
+async function loadTaffy() {
+  try {
+    await ensureWebCrypto();
+    const wasmUrl =
+      "https://unpkg.com/taffy-layout@latest/pkg/taffy_wasm_bg.wasm";
+    const mod = await import("taffy-layout/wasm");
+    if (mod && typeof mod.default === "function") {
+      await mod.default(wasmUrl);
+    }
+    Object.assign(globalThis, mod);
+    registerPreview(mod);
+    return mod;
+  } catch (error) {
+    console.error("Failed to load taffy-layout wasm", error);
+    throw error;
+  }
+}
+
+export const ready = loadTaffy();
+16:["$","main",null,{"className":"min-w-0","children":[["$","$L1a",null,{"items":"$15:props:items","ui":"$12:props:children:1:props:ui"}],["$","$L1b",null,{"motionKey":"content-styling/grid-auto-flow","children":["$","div",null,{"className":"rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-10 dark:border-slate-800 dark:bg-slate-900","children":[null,["$","div",null,{"className":"doc-content","children":[["$","h1",null,{"id":"grid-auto-flow","children":["$","a",null,{"href":"#grid-auto-flow","className":"anchor-link","children":"Grid Auto Flow"}]}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"Control how auto-placed items flow into the grid."}]}],"\n",["$","p",null,{"children":["If you have more items than explicit cells, or if you don't place items explicitly, ",["$","$L1c",null,{"data-inline":true,"children":"gridAutoFlow","templates":{"previewHelpers":"$1d","setup":"$1e","reactIndex":"/**\n * @module features/code/lib/sandpack-assets/react-index\n * @description Entry point for the React Sandpack environment.\n * Initializes the React root and renders the user's App component.\n */\n\nimport { ready } from \"./sandbox-setup\";\nimport { createRoot } from \"react-dom/client\";\n// @ts-expect-error -- Sandpack issue\nimport App from \"./App\";\n\nready.then(() => {\n  // Mount the application once the sandbox environment is ready\n  const root = document.getElementById(\"root\");\n  if (root) createRoot(root).render(<App />);\n});\n","tsIndex":"/**\n * @module features/code/lib/sandpack-assets/ts-index\n * @description Entry point for the Vanilla TypeScript Sandpack environment.\n * Waits for the environment to be ready and then executes the user's code.\n */\n\nimport { ready } from \"./sandbox-setup\";\nready.then(() => {\n  // {{CODE}} - This placeholder is replaced at runtime with the user's TypeScript code.\n});\n"},"inline":true}]," controls how they fill the grid."]}],"\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28"]}]]}]}]]}]
+17:["$","aside",null,{"className":"doc-layout__toc hidden xl:block","children":["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":["$","$L1b",null,{"motionKey":"toc-styling/grid-auto-flow","children":["$","$L29",null,{"items":[{"id":"values","text":"Values","level":2},{"id":"example","text":"Example","level":2},{"id":"typical-use-cases","text":"Typical Use Cases","level":2},{"id":"api-reference","text":"API Reference","level":2},{"id":"next-steps","text":"Next Steps","level":2}],"title":"On this page"}]}]}]}]
+18:["$","footer",null,{"className":"border-t border-slate-200 bg-white/90 dark:border-slate-800 dark:bg-slate-900/90","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-center px-4 py-8 text-sm text-slate-500 sm:px-6 lg:px-8 dark:text-slate-400","children":["$","p",null,{"children":["© ",2026," ByteLand Technology Limited"]}]}]}]
+2a:I[522016,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],""]
+1f:["$","h2",null,{"id":"values","children":["$","a",null,{"href":"#values","className":"anchor-link","children":"Values"}]}]
+20:["$","div",null,{"className":"table-wrapper my-6 w-full overflow-x-auto","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"style":{"textAlign":"left"},"children":"Value"}],["$","th",null,{"style":{"textAlign":"left"},"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":["$","$L1c",null,{"data-inline":true,"children":"Row","templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:1:props:templates","inline":true}]}]}],["$","td",null,{"style":{"textAlign":"left"},"children":[["$","strong",null,{"children":"Default"}],". Items fill current row, then move to next row."]}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":["$","$L1c",null,{"data-inline":true,"children":"Column","templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:1:props:templates","inline":true}]}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Items fill current column, then move to next column."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":["$","$L1c",null,{"data-inline":true,"children":"RowDense","templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:1:props:templates","inline":true}]}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Like Row, but attempts to backfill holes in the grid."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":["$","$L1c",null,{"data-inline":true,"children":"ColumnDense","templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:1:props:templates","inline":true}]}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Like Column, but attempts to backfill holes."}]]}]]}]],"className":"w-full "}]}]
+21:["$","h2",null,{"id":"example","children":["$","a",null,{"href":"#example","className":"anchor-link","children":"Example"}]}]
+22:["$","div",null,{"className":"my-6","children":["$","$L1c",null,{"className":"language-text code-highlight","data-language":"tsx","data-meta":"live","data-raw-code":"const tree = new TaffyTree();\nconst rootStyle = new Style({ display: Display.Grid });\nconst child1 = tree.newLeaf(new Style());\nconst child2 = tree.newLeaf(new Style());\nconst child3 = tree.newLeaf(new Style());\nconst child4 = tree.newLeaf(new Style());\n\nrootStyle.gridTemplateColumns = [\n  { min: 60, max: 60 },\n  { min: 60, max: 60 },\n];\nrootStyle.gridTemplateRows = [\n  { min: 40, max: 40 },\n  { min: 40, max: 40 },\n];\nrootStyle.gap = { width: 8, height: 8 };\nrootStyle.size = { width: 160, height: 100 };\nrootStyle.padding = { left: 8, right: 8, top: 8, bottom: 8 };\n\nconst root = tree.newWithChildren(rootStyle, [child1, child2, child3, child4]);\n\ntree.computeLayout(root, {\n  width: 160,\n  height: 100,\n});\n\nconsole.log(`Auto flow: Row`);\n\nreturn <TaffyTreePreview tree={tree} root={root} />;","children":[["$","span",null,{"className":"code-line","children":"const tree = new TaffyTree();\n"}],["$","span",null,{"className":"code-line","children":"const rootStyle = new Style({ display: Display.Grid });\n"}],["$","span",null,{"className":"code-line","children":"const child1 = tree.newLeaf(new Style());\n"}],["$","span",null,{"className":"code-line","children":"const child2 = tree.newLeaf(new Style());\n"}],["$","span",null,{"className":"code-line","children":"const child3 = tree.newLeaf(new Style());\n"}],["$","span",null,{"className":"code-line","children":"const child4 = tree.newLeaf(new Style());\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"rootStyle.gridTemplateColumns = [\n"}],["$","span",null,{"className":"code-line","children":"  { min: 60, max: 60 },\n"}],["$","span",null,{"className":"code-line","children":"  { min: 60, max: 60 },\n"}],["$","span",null,{"className":"code-line","children":"];\n"}],["$","span",null,{"className":"code-line","children":"rootStyle.gridTemplateRows = [\n"}],["$","span",null,{"className":"code-line","children":"  { min: 40, max: 40 },\n"}],["$","span",null,{"className":"code-line","children":"  { min: 40, max: 40 },\n"}],["$","span",null,{"className":"code-line","children":"];\n"}],["$","span",null,{"className":"code-line","children":"rootStyle.gap = { width: 8, height: 8 };\n"}],["$","span",null,{"className":"code-line","children":"rootStyle.size = { width: 160, height: 100 };\n"}],["$","span",null,{"className":"code-line","children":"rootStyle.padding = { left: 8, right: 8, top: 8, bottom: 8 };\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"const root = tree.newWithChildren(rootStyle, [child1, child2, child3, child4]);\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"tree.computeLayout(root, {\n"}],["$","span",null,{"className":"code-line","children":"  width: 160,\n"}],["$","span",null,{"className":"code-line","children":"  height: 100,\n"}],["$","span",null,{"className":"code-line","children":"});\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"console.log(`Auto flow: Row`);\n"}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":"return <TaffyTreePreview tree={tree} root={root} />;\n"}]],"templates":"$16:props:children:1:props:children:props:children:1:props:children:4:props:children:1:props:templates","inline":false}]}]
+23:["$","h2",null,{"id":"typical-use-cases","children":["$","a",null,{"href":"#typical-use-cases","className":"anchor-link","children":"Typical Use Cases"}]}]
+24:["$","ul",null,{"children":["\n",["$","li",null,{"children":"auto card grids"}],"\n",["$","li",null,{"children":"responsive dashboards"}],"\n"]}]
+25:["$","h2",null,{"id":"api-reference","children":["$","a",null,{"href":"#api-reference","className":"anchor-link","children":"API Reference"}]}]
+26:["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","$L2a",null,{"href":"/docs/api/enumerations/GridAutoFlow","children":"GridAutoFlow Enum"}]}],"\n"]}]
+27:["$","h2",null,{"id":"next-steps","children":["$","a",null,{"href":"#next-steps","className":"anchor-link","children":"Next Steps"}]}]
+28:["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","$L2a",null,{"href":"/docs/styling/position","children":"Position"}]}],"\n",["$","li",null,{"children":["$","$L2a",null,{"href":"/docs/styling/grid-templates","children":"Grid Templates"}]}],"\n"]}]

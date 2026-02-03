@@ -1,0 +1,494 @@
+1:"$Sreact.fragment"
+2:I[961232,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+3:I[47654,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+d:I[67575,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+e:I[711068,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+10:I[458663,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+11:I[762089,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+12:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/16ea27c3b926bc31.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[604927,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],"default"]
+33:I[522016,["/_next/static/chunks/7f4e6b683fb77d76.js","/_next/static/chunks/27da104fd0ed3672.js","/_next/static/chunks/cedfca1d4b4ee591.js","/_next/static/chunks/870949d44eec98cb.js","/_next/static/chunks/a1bc20a569d2ad82.js"],""]
+0:{"buildId":"tOapCMotD9RyHJzviuaQ-","rsc":["$","$1","c",{"children":[["$","div",null,{"data-pagefind-filter":"lang:en","className":"contents","children":["$","div",null,{"className":"min-h-screen bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-50","children":[["$","$L2",null,{}],["$","$L3",null,{"locale":"en","navGroups":[{"key":"docs","title":"Documentation","href":"/docs"},{"key":"api","title":"API","href":"/docs/api"},{"key":"benchmark","title":"Benchmark","href":"/benchmark"},{"key":"playground","title":"Playground","href":"/playground"}],"activeGroup":"docs","ui":{"docs":"Documentation","gettingStarted":"Getting Started","api":"API","benchmark":"Benchmark","playground":"Playground","navigation":"Navigation","close":"Close","menu":"Menu","docsGroups":"Docs groups","inThisGroup":"In this group","browseDocs":"Browse docs","onThisPage":"On this page","docSubtitle":"Documentation","notFoundTitle":"Page not found","notFoundBody":"The documentation page you are looking for does not exist.","backHome":"Back to home","langLabel":"Language","changelog":"Changelog","changelogNotTranslated":"This page is only available in English. Please switch to English to view the changelog.","missingTranslation":"This page is not yet translated. Showing English.","homeTitle":"Why Taffy?","homeSubtitle":"A quick overview of what makes Taffy Layout special.","entryPoints":"Entry points","whyTaffy":"Why Taffy","open":"Open","closeMenu":"Close menu","openMenu":"Open menu","builtWith":"Built with Rust & WASM","heroDescription":"A fast, flexible, and robust flexbox and grid layout engine for every platform.","flexboxGrid":"Flexbox and Grid layouts without a DOM.","fastDeterministic":"Fast, deterministic layout for custom renderers.","portableAPI":"Portable API built for real-world UI engines.","fullBenchmarkSuite":"Benchmark","run":"Run","stop":"Stop","scenario":"SCENARIO","buildPhase":"BUILD PHASE","layoutPhase":"LAYOUT PHASE","pending":"Pending","faster":"faster","slower":"slower","taffyPlayground":"Playground","presetFlexBetween":"Flex · Space Between","presetFlexBetweenDesc":"A row container distributing space between cards.","presetFlexCenter":"Flex · Center","presetFlexCenterDesc":"Items centered in the container.","presetFlexGrow":"Flex · Grow","presetFlexGrowDesc":"Items grow proportionally to fill the row.","presetFlexWrap":"Flex · Wrap","presetFlexWrapDesc":"Wrapping layout with align-content controls.","presetGridBasic":"Grid · Basic","presetGridBasicDesc":"Auto-placed grid tracks with fixed sizes.","presetGridSpans":"Grid · Spans","presetGridSpansDesc":"Mix spans to highlight grid placement.","themeToggle":"Toggle theme","themeSwitchToLight":"Switch to light mode","themeSwitchToDark":"Switch to dark mode","themeLightLabel":"Light mode","themeDarkLabel":"Dark mode","githubTooltip":"GitHub repository","languageTooltip":"Select language","languageMenuLabel":"Select language","searchDocs":"Search docs…","searchDocumentation":"Search documentation","searchTooltip":"Search documentation","searchPlaceholder":"Search documentation…","searchResults":"Search results","noResultsFound":"No results found for","nestedNodes":"Nested / {{count}} Nodes","flatNodes":"Flat / {{count}} Nodes","binaryNodes":"Binary / {{count}} Nodes","chainLevels":"Chain / {{count}} Levels","docsDesc":"Start with the guided overview and the full docs map.","apiDesc":"Typed API docs, enums, classes, and functions.","benchmarkDesc":"Run the full performance suite in the browser.","playgroundDesc":"Experiment with layouts and visualize results.","fullScreenEditor":"Full Screen Editor","console":"Console"}}],["$","div",null,{"className":"mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8","children":["$","div",null,{"className":"doc-layout grid gap-8 lg:grid-cols-[280px,minmax(0,1fr)] xl:grid-cols-[280px,minmax(0,1fr),220px]","children":[["$","aside",null,{"className":"doc-layout__sidebar hidden lg:block","children":"$L4"}],"$L5","$L6"]}]}],"$L7"]}]}],["$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":["$","$Ld",null,{"items":[{"title":"Documentation","segment":"docs","order":0,"href":"/docs","children":[{"title":"About Taffy","href":"/docs/about-taffy","order":1,"segment":"about-taffy"},{"title":"Getting Started","order":2,"segment":"getting-started","children":[{"title":"Installation","href":"/docs/getting-started/installation","order":1,"segment":"installation"},{"title":"Quick Start","href":"/docs/getting-started/quick-start","order":2,"segment":"quick-start"},{"title":"Building Trees","href":"/docs/getting-started/building-trees","order":3,"segment":"building-trees"},{"title":"Computing Layouts","href":"/docs/getting-started/computing-layouts","order":4,"segment":"computing-layouts"},{"title":"Configuration","href":"/docs/getting-started/configuration","order":5,"segment":"configuration"}],"href":"/docs/getting-started"},{"title":"Core Concepts","order":3,"segment":"core-concepts","children":[{"title":"The Style Object","href":"/docs/core-concepts/objects-style","order":1,"segment":"objects-style"},{"title":"The TaffyTree Object","href":"/docs/core-concepts/objects-taffy-tree","order":2,"segment":"objects-taffy-tree"},{"title":"The Layout Object","href":"/docs/core-concepts/objects-layout","order":3,"segment":"objects-layout"},{"title":"Size, Space, and Units","href":"/docs/core-concepts/size-and-space","order":4,"segment":"size-and-space"},{"title":"Measure Functions","href":"/docs/core-concepts/measure-functions","order":5,"segment":"measure-functions"}],"href":"/docs/core-concepts"},{"title":"Styling","order":4,"segment":"styling","children":[{"title":"Display","href":"/docs/styling/display","order":1,"segment":"display"},{"title":"Sizing","href":"/docs/styling/size","order":2,"segment":"size"},{"title":"Aspect Ratio","href":"/docs/styling/aspect-ratio","order":3,"segment":"aspect-ratio"},{"title":"Margin","href":"/docs/styling/margin","order":4,"segment":"margin"},{"title":"Padding","href":"/docs/styling/padding","order":5,"segment":"padding"},{"title":"Border","href":"/docs/styling/border","order":6,"segment":"border"},{"title":"Gap","href":"/docs/styling/gap","order":7,"segment":"gap"},{"title":"Flex Direction","href":"/docs/styling/flex-direction","order":8,"segment":"flex-direction"},{"title":"Flex Wrap","href":"/docs/styling/flex-wrap","order":9,"segment":"flex-wrap"},{"title":"Flex Basis","href":"/docs/styling/flex-basis","order":10,"segment":"flex-basis"},{"title":"Flex Grow","href":"/docs/styling/flex-grow","order":11,"segment":"flex-grow"},{"title":"Flex Shrink","href":"/docs/styling/flex-shrink","order":12,"segment":"flex-shrink"},{"title":"Justify Content","href":"/docs/styling/justify-content","order":13,"segment":"justify-content"},{"title":"Align Items","href":"/docs/styling/align-items","order":14,"segment":"align-items"},{"title":"Align Self","href":"/docs/styling/align-self","order":15,"segment":"align-self"},{"title":"Align Content","href":"/docs/styling/align-content","order":16,"segment":"align-content"},{"title":"Grid","href":"/docs/styling/grid","order":17,"segment":"grid"},{"title":"Grid Template","href":"/docs/styling/grid-templates","order":18,"segment":"grid-templates"},{"title":"Grid Column","href":"/docs/styling/grid-column","order":19,"segment":"grid-column"},{"title":"Grid Row","href":"/docs/styling/grid-row","order":20,"segment":"grid-row"},{"title":"Grid Auto Flow","href":"/docs/styling/grid-auto-flow","order":21,"segment":"grid-auto-flow"},{"title":"Positioning","href":"/docs/styling/position","order":22,"segment":"position"},{"title":"Inset","href":"/docs/styling/inset","order":23,"segment":"inset"},{"title":"Overflow","href":"/docs/styling/overflow","order":24,"segment":"overflow"}],"href":"/docs/styling"},{"title":"Layout Cookbook","order":5,"segment":"cookbook","children":[{"title":"Flex Row Cards","href":"/docs/cookbook/flex-row-cards","order":1,"segment":"flex-row-cards"},{"title":"Grid Dashboard","href":"/docs/cookbook/grid-dashboard","order":2,"segment":"grid-dashboard"},{"title":"Holy Grail Layout","href":"/docs/cookbook/holy-grail-layout","order":3,"segment":"holy-grail-layout"},{"title":"Sticky Footer","href":"/docs/cookbook/sticky-footer","order":4,"segment":"sticky-footer"},{"title":"Media Card","href":"/docs/cookbook/media-card","order":5,"segment":"media-card"}],"href":"/docs/cookbook"},{"title":"Advanced Topics","order":6,"segment":"advanced","children":[{"title":"Debugging","href":"/docs/advanced/debugging","order":1,"segment":"debugging"},{"title":"Performance","href":"/docs/advanced/performance","order":2,"segment":"performance"},{"title":"Error Handling","href":"/docs/advanced/error-handling","order":3,"segment":"error-handling"}],"href":"/docs/advanced"}]}]}]}]
+5:["$","main",null,{"className":"min-w-0","children":[["$","$Le",null,{"items":[{"title":"Documentation","segment":"docs","order":0,"href":"/docs","children":[{"title":"About Taffy","href":"/docs/about-taffy","order":1,"segment":"about-taffy"},{"title":"Getting Started","order":2,"segment":"getting-started","children":[{"title":"Installation","href":"/docs/getting-started/installation","order":1,"segment":"installation"},{"title":"Quick Start","href":"/docs/getting-started/quick-start","order":2,"segment":"quick-start"},{"title":"Building Trees","href":"/docs/getting-started/building-trees","order":3,"segment":"building-trees"},{"title":"Computing Layouts","href":"/docs/getting-started/computing-layouts","order":4,"segment":"computing-layouts"},{"title":"Configuration","href":"/docs/getting-started/configuration","order":5,"segment":"configuration"}],"href":"/docs/getting-started"},{"title":"Core Concepts","order":3,"segment":"core-concepts","children":[{"title":"The Style Object","href":"/docs/core-concepts/objects-style","order":1,"segment":"objects-style"},{"title":"The TaffyTree Object","href":"/docs/core-concepts/objects-taffy-tree","order":2,"segment":"objects-taffy-tree"},{"title":"The Layout Object","href":"/docs/core-concepts/objects-layout","order":3,"segment":"objects-layout"},{"title":"Size, Space, and Units","href":"/docs/core-concepts/size-and-space","order":4,"segment":"size-and-space"},{"title":"Measure Functions","href":"/docs/core-concepts/measure-functions","order":5,"segment":"measure-functions"}],"href":"/docs/core-concepts"},{"title":"Styling","order":4,"segment":"styling","children":[{"title":"Display","href":"/docs/styling/display","order":1,"segment":"display"},{"title":"Sizing","href":"/docs/styling/size","order":2,"segment":"size"},{"title":"Aspect Ratio","href":"/docs/styling/aspect-ratio","order":3,"segment":"aspect-ratio"},{"title":"Margin","href":"/docs/styling/margin","order":4,"segment":"margin"},{"title":"Padding","href":"/docs/styling/padding","order":5,"segment":"padding"},{"title":"Border","href":"/docs/styling/border","order":6,"segment":"border"},{"title":"Gap","href":"/docs/styling/gap","order":7,"segment":"gap"},{"title":"Flex Direction","href":"/docs/styling/flex-direction","order":8,"segment":"flex-direction"},{"title":"Flex Wrap","href":"/docs/styling/flex-wrap","order":9,"segment":"flex-wrap"},{"title":"Flex Basis","href":"/docs/styling/flex-basis","order":10,"segment":"flex-basis"},{"title":"Flex Grow","href":"/docs/styling/flex-grow","order":11,"segment":"flex-grow"},{"title":"Flex Shrink","href":"/docs/styling/flex-shrink","order":12,"segment":"flex-shrink"},{"title":"Justify Content","href":"/docs/styling/justify-content","order":13,"segment":"justify-content"},{"title":"Align Items","href":"/docs/styling/align-items","order":14,"segment":"align-items"},{"title":"Align Self","href":"/docs/styling/align-self","order":15,"segment":"align-self"},{"title":"Align Content","href":"/docs/styling/align-content","order":16,"segment":"align-content"},{"title":"Grid","href":"/docs/styling/grid","order":17,"segment":"grid"},{"title":"Grid Template","href":"/docs/styling/grid-templates","order":18,"segment":"grid-templates"},{"title":"Grid Column","href":"/docs/styling/grid-column","order":19,"segment":"grid-column"},{"title":"Grid Row","href":"/docs/styling/grid-row","order":20,"segment":"grid-row"},{"title":"Grid Auto Flow","href":"/docs/styling/grid-auto-flow","order":21,"segment":"grid-auto-flow"},{"title":"Positioning","href":"/docs/styling/position","order":22,"segment":"position"},{"title":"Inset","href":"/docs/styling/inset","order":23,"segment":"inset"},{"title":"Overflow","href":"/docs/styling/overflow","order":24,"segment":"overflow"}],"href":"/docs/styling"},{"title":"Layout Cookbook","order":5,"segment":"cookbook","children":[{"title":"Flex Row Cards","href":"/docs/cookbook/flex-row-cards","order":1,"segment":"flex-row-cards"},{"title":"Grid Dashboard","href":"/docs/cookbook/grid-dashboard","order":2,"segment":"grid-dashboard"},{"title":"Holy Grail Layout","href":"/docs/cookbook/holy-grail-layout","order":3,"segment":"holy-grail-layout"},{"title":"Sticky Footer","href":"/docs/cookbook/sticky-footer","order":4,"segment":"sticky-footer"},{"title":"Media Card","href":"/docs/cookbook/media-card","order":5,"segment":"media-card"}],"href":"/docs/cookbook"},{"title":"Advanced Topics","order":6,"segment":"advanced","children":[{"title":"Debugging","href":"/docs/advanced/debugging","order":1,"segment":"debugging"},{"title":"Performance","href":"/docs/advanced/performance","order":2,"segment":"performance"},{"title":"Error Handling","href":"/docs/advanced/error-handling","order":3,"segment":"error-handling"}],"href":"/docs/advanced"}]}],"ui":{"docs":"Documentation","gettingStarted":"Getting Started","api":"API","benchmark":"Benchmark","playground":"Playground","navigation":"Navigation","close":"Close","menu":"Menu","docsGroups":"Docs groups","inThisGroup":"In this group","browseDocs":"Browse docs","onThisPage":"On this page","docSubtitle":"Documentation","notFoundTitle":"Page not found","notFoundBody":"The documentation page you are looking for does not exist.","backHome":"Back to home","langLabel":"Language","changelog":"Changelog","changelogNotTranslated":"This page is only available in English. Please switch to English to view the changelog.","missingTranslation":"This page is not yet translated. Showing English.","homeTitle":"Why Taffy?","homeSubtitle":"A quick overview of what makes Taffy Layout special.","entryPoints":"Entry points","whyTaffy":"Why Taffy","open":"Open","closeMenu":"Close menu","openMenu":"Open menu","builtWith":"Built with Rust & WASM","heroDescription":"A fast, flexible, and robust flexbox and grid layout engine for every platform.","flexboxGrid":"Flexbox and Grid layouts without a DOM.","fastDeterministic":"Fast, deterministic layout for custom renderers.","portableAPI":"Portable API built for real-world UI engines.","fullBenchmarkSuite":"Benchmark","run":"Run","stop":"Stop","scenario":"SCENARIO","buildPhase":"BUILD PHASE","layoutPhase":"LAYOUT PHASE","pending":"Pending","faster":"faster","slower":"slower","taffyPlayground":"Playground","presetFlexBetween":"Flex · Space Between","presetFlexBetweenDesc":"A row container distributing space between cards.","presetFlexCenter":"Flex · Center","presetFlexCenterDesc":"Items centered in the container.","presetFlexGrow":"Flex · Grow","presetFlexGrowDesc":"Items grow proportionally to fill the row.","presetFlexWrap":"Flex · Wrap","presetFlexWrapDesc":"Wrapping layout with align-content controls.","presetGridBasic":"Grid · Basic","presetGridBasicDesc":"Auto-placed grid tracks with fixed sizes.","presetGridSpans":"Grid · Spans","presetGridSpansDesc":"Mix spans to highlight grid placement.","themeToggle":"Toggle theme","themeSwitchToLight":"Switch to light mode","themeSwitchToDark":"Switch to dark mode","themeLightLabel":"Light mode","themeDarkLabel":"Dark mode","githubTooltip":"GitHub repository","languageTooltip":"Select language","languageMenuLabel":"Select language","searchDocs":"Search docs…","searchDocumentation":"Search documentation","searchTooltip":"Search documentation","searchPlaceholder":"Search documentation…","searchResults":"Search results","noResultsFound":"No results found for","nestedNodes":"Nested / {{count}} Nodes","flatNodes":"Flat / {{count}} Nodes","binaryNodes":"Binary / {{count}} Nodes","chainLevels":"Chain / {{count}} Levels","docsDesc":"Start with the guided overview and the full docs map.","apiDesc":"Typed API docs, enums, classes, and functions.","benchmarkDesc":"Run the full performance suite in the browser.","playgroundDesc":"Experiment with layouts and visualize results.","fullScreenEditor":"Full Screen Editor","console":"Console"}}],"$Lf"]}]
+6:["$","aside",null,{"className":"doc-layout__toc hidden xl:block","children":["$","div",null,{"className":"doc-panel sticky top-24 max-h-[calc(100vh-6rem)] overflow-y-auto","children":["$","$L10",null,{"motionKey":"toc-getting-started/building-trees","children":["$","$L11",null,{"items":[{"id":"key-operations","text":"Key Operations","level":2},{"id":"creating-nodes","text":"Creating Nodes","level":2},{"id":"leaf-nodes","text":"Leaf Nodes","level":3},{"id":"container-nodes","text":"Container Nodes","level":3},{"id":"managing-children","text":"Managing Children","level":2},{"id":"updating-styles","text":"Updating Styles","level":2},{"id":"next-steps","text":"Next Steps","level":2}],"title":"On this page"}]}]}]}]
+7:["$","footer",null,{"className":"border-t border-slate-200 bg-white/90 dark:border-slate-800 dark:bg-slate-900/90","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-center px-4 py-8 text-sm text-slate-500 sm:px-6 lg:px-8 dark:text-slate-400","children":["$","p",null,{"children":["© ",2026," ByteLand Technology Limited"]}]}]}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/27da104fd0ed3672.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/cedfca1d4b4ee591.js","async":true}]
+a:["$","script","script-2",{"src":"/_next/static/chunks/870949d44eec98cb.js","async":true}]
+b:["$","script","script-3",{"src":"/_next/static/chunks/a1bc20a569d2ad82.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+16:T1b3b,/**
+ * @module taffy-preview
+ * @description Preview visualizer for Taffy Layout structures.
+ * Intercepts Taffy tree operations to collect layout data and renders
+ * a visual representation of the nodes.
+ */
+
+const colorPalette = [
+  "#60a5fa",
+  "#34d399",
+  "#fbbf24",
+  "#f472b6",
+  "#c084fc",
+  "#f97316",
+];
+
+interface PreviewLayout {
+  width: number;
+  height: number;
+  x: number;
+  y: number;
+}
+
+interface PreviewTree {
+  getLayout(node: unknown): PreviewLayout;
+  __previewChildren: Map<unknown, unknown[]>;
+}
+
+function getChildrenMap(tree: PreviewTree) {
+  if (!tree.__previewChildren) tree.__previewChildren = new Map();
+  return tree.__previewChildren;
+}
+
+function wrapTree(mod: {
+  TaffyTree: { prototype: Record<string, unknown> };
+  __previewWrapped?: boolean;
+}) {
+  if (!mod?.TaffyTree || mod.__previewWrapped) return;
+  const proto = mod.TaffyTree.prototype as {
+    newLeaf: unknown;
+    newWithChildren: unknown;
+    addChild: unknown;
+  };
+  const originalNewLeaf = proto.newLeaf as (style: unknown) => unknown;
+  const originalNewWithChildren = proto.newWithChildren as (
+    style: unknown,
+    children: unknown[],
+  ) => unknown;
+  const originalAddChild = proto.addChild as (
+    parent: unknown,
+    child: unknown,
+  ) => unknown;
+
+  proto.newLeaf = function (style: unknown) {
+    const node = originalNewLeaf.call(this, style);
+    getChildrenMap(this as unknown as PreviewTree).set(node, []);
+    return node;
+  };
+
+  proto.newWithChildren = function (style: unknown, children: unknown[] = []) {
+    const node = originalNewWithChildren.call(this, style, children);
+    getChildrenMap(this as unknown as PreviewTree).set(node, children);
+    return node;
+  };
+
+  if (typeof originalAddChild === "function") {
+    proto.addChild = function (parent: unknown, child: unknown) {
+      const result = originalAddChild.call(this, parent, child);
+      const map = getChildrenMap(this as unknown as PreviewTree);
+      const list = map.get(parent) || [];
+      if (!list.includes(child)) list.push(child);
+      map.set(parent, list);
+      if (!map.has(child)) map.set(child, []);
+      return result;
+    };
+  }
+  mod.__previewWrapped = true;
+}
+
+function collectNodesWithPositions(tree: PreviewTree, root: unknown) {
+  const map = getChildrenMap(tree);
+  const visited = new Set<unknown>();
+  const result: {
+    node: unknown;
+    layout: PreviewLayout;
+    x: number;
+    y: number;
+    isLeaf: boolean;
+  }[] = [];
+
+  const walk = (node: unknown, offsetX: number, offsetY: number) => {
+    if (!node || visited.has(node)) return;
+    visited.add(node);
+    const layout = tree.getLayout(node);
+    const x = (layout?.x ?? 0) + offsetX;
+    const y = (layout?.y ?? 0) + offsetY;
+    const children = map.get(node) || [];
+    result.push({ node, layout, x, y, isLeaf: children.length === 0 });
+    children.forEach((child: unknown) => walk(child, x, y));
+  };
+
+  walk(root, 0, 0);
+  return result;
+}
+
+/**
+ * Visualizes a Taffy Layout tree.
+ *
+ * Renders a set of nested boxes representing the layout nodes,
+ * displaying their dimensions and positions.
+ *
+ * @param props.tree - The preview-wrapped Taffy tree interface.
+ * @param props.root - The root node of the layout to visualize.
+ * @returns A React component rendering the layout visualization.
+ */
+export function TaffyTreePreview({
+  tree,
+  root,
+}: {
+  tree: PreviewTree;
+  root: unknown;
+}) {
+  if (!tree || !root || typeof tree.getLayout !== "function") {
+    return <div style={{ padding: 12 }}>No layout data.</div>;
+  }
+  const nodes = collectNodesWithPositions(tree, root);
+  const rootLayout = tree.getLayout(root);
+  const width = rootLayout?.width ?? 0;
+  const height = rootLayout?.height ?? 0;
+
+  return (
+    <div
+      style={{
+        display: "inline-block",
+        verticalAlign: "top",
+        maxWidth: "100%",
+        overflow: "visible",
+        boxSizing: "border-box",
+        padding: "4px", // Tiny padding for shadows
+        backgroundColor: "transparent",
+      }}
+    >
+      <div
+        style={{
+          position: "relative",
+          width,
+          height,
+          backgroundColor: "rgba(191, 219, 254, 0.45)",
+          backdropFilter: "blur(14px)",
+          WebkitBackdropFilter: "blur(14px)",
+          boxShadow: "inset 0 0 0 1px rgba(255, 255, 255, 0.5)",
+          overflow: "hidden",
+          borderRadius: 16,
+          boxSizing: "border-box",
+        }}
+      >
+        {nodes.map(({ layout, x, y, isLeaf }, index) => {
+          const color =
+            index === 0
+              ? "var(--taffy-root-bg, rgba(255, 255, 255, 0.45))"
+              : colorPalette[(index - 1) % colorPalette.length];
+          return (
+            <div
+              key={index}
+              style={{
+                position: "absolute",
+                left: x,
+                top: y,
+                width: layout.width ?? 0,
+                height: layout.height ?? 0,
+                background: color,
+                backdropFilter: "blur(8px)",
+                WebkitBackdropFilter: "blur(8px)",
+                borderRadius: 12,
+                color:
+                  index === 0 ? "var(--taffy-root-text, #1e293b)" : "#1e293b",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontSize: 11,
+                fontWeight: 800,
+                boxShadow:
+                  "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)",
+                pointerEvents: "none",
+                boxSizing: "border-box",
+                border:
+                  index === 0
+                    ? "var(--taffy-root-border, 1.5px solid rgba(255, 255, 255, 0.7))"
+                    : "2px solid rgba(255,255,255,0.4)",
+                transition: "all 0.2s ease",
+              }}
+            >
+              {isLeaf && layout.width > 30 && layout.height > 15 ? (
+                <span style={{ textShadow: "0 1px 2px rgba(255,255,255,0.2)" }}>
+                  {(layout.width % 1 === 0
+                    ? layout.width
+                    : layout.width.toFixed(1)) +
+                    "×" +
+                    (layout.height % 1 === 0
+                      ? layout.height
+                      : layout.height.toFixed(1))}
+                </span>
+              ) : (
+                ""
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/**
+ * Registers the preview mechanism by wrapping the Taffy module.
+ *
+ * @param mod - The Taffy WASM module to instrument.
+ */
+export function registerPreview(mod: {
+  TaffyTree: unknown;
+  TaffyTreePreview?: unknown;
+}) {
+  wrapTree(
+    mod as {
+      TaffyTree: { prototype: Record<string, unknown> };
+      __previewWrapped?: boolean;
+    },
+  );
+  if (mod) {
+    mod.TaffyTreePreview = TaffyTreePreview;
+  }
+  if (typeof globalThis !== "undefined") {
+    (globalThis as unknown as { TaffyTreePreview: unknown }).TaffyTreePreview =
+      TaffyTreePreview;
+  }
+}
+17:T157c,/**
+ * @module sandbox-setup
+ * @description Initialization script for the Sandpack environment.
+ * Sets up the Taffy layout engine and polyfills Web Crypto API if needed.
+ */
+
+import { registerPreview } from "./taffy-preview";
+
+type DigestAlgorithm = "SHA-1" | "SHA-256" | "SHA-384" | "SHA-512";
+
+/**
+ * Converts a BufferSource to a Uint8Array.
+ *
+ * @param data - The buffer source to convert.
+ * @returns A Uint8Array view of the data.
+ */
+function toUint8Array(data: BufferSource) {
+  if (data instanceof ArrayBuffer) return new Uint8Array(data);
+  if (ArrayBuffer.isView(data)) {
+    return new Uint8Array(data.buffer, data.byteOffset, data.byteLength);
+  }
+  return new Uint8Array();
+}
+
+const fallbackGetRandomValues = (array: Uint8Array) => {
+  for (let i = 0; i < array.length; i += 1) {
+    array[i] = Math.floor(Math.random() * 256);
+  }
+  return array;
+};
+
+const fallbackSubtle = {
+  digest: async (algorithm: AlgorithmIdentifier, data: BufferSource) => {
+    const name =
+      typeof algorithm === "string"
+        ? algorithm
+        : (algorithm as { name?: string })?.name || "";
+    const normalized = name.toUpperCase() as DigestAlgorithm;
+    const bytes = toUint8Array(data);
+    const { sha1 } = await import("@noble/hashes/legacy.js");
+    const { sha256, sha384, sha512 } = await import("@noble/hashes/sha2.js");
+    let hash: Uint8Array;
+
+    switch (normalized) {
+      case "SHA-1":
+        hash = sha1(bytes);
+        break;
+      case "SHA-384":
+        hash = sha384(bytes);
+        break;
+      case "SHA-512":
+        hash = sha512(bytes);
+        break;
+      case "SHA-256":
+      default:
+        hash = sha256(bytes);
+        break;
+    }
+
+    return hash.buffer.slice(
+      hash.byteOffset,
+      hash.byteOffset + hash.byteLength,
+    );
+  },
+};
+
+/**
+ * Polyfills the Web Crypto API's digest and getRandomValues functions.
+ * required for some dependencies within the sandbox.
+ */
+function applyCryptoPolyfill() {
+  const existing = globalThis.crypto as Crypto | undefined;
+
+  if (!existing) {
+    try {
+      Object.defineProperty(globalThis, "crypto", {
+        value: {
+          subtle: fallbackSubtle,
+          getRandomValues: fallbackGetRandomValues,
+        },
+        configurable: true,
+      });
+    } catch {
+      // Ignore if read-only
+    }
+    return;
+  }
+
+  if (!existing.subtle || !(existing.subtle as SubtleCrypto).digest) {
+    try {
+      Object.defineProperty(existing, "subtle", {
+        value: fallbackSubtle,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (existing as unknown as { subtle: SubtleCrypto }).subtle =
+          fallbackSubtle as SubtleCrypto;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+
+  if (!existing.getRandomValues) {
+    try {
+      Object.defineProperty(existing, "getRandomValues", {
+        value: fallbackGetRandomValues,
+        configurable: true,
+      });
+    } catch {
+      try {
+        (
+          existing as unknown as {
+            getRandomValues: typeof fallbackGetRandomValues;
+          }
+        ).getRandomValues = fallbackGetRandomValues;
+      } catch {
+        // Ignore if read-only
+      }
+    }
+  }
+}
+
+applyCryptoPolyfill();
+
+/**
+ * Ensures a robust Web Crypto implementation is available.
+ * Attempts to borrow from Node's crypto if global crypto is insufficient.
+ */
+async function ensureWebCrypto() {
+  const existing = globalThis.crypto as Crypto | undefined;
+  if (existing?.subtle?.digest) return;
+
+  try {
+    const nodeCrypto = await import("crypto");
+    if (nodeCrypto?.webcrypto?.subtle) {
+      const nodeSubtle = nodeCrypto.webcrypto.subtle as SubtleCrypto;
+      const nodeGetRandomValues = nodeCrypto.webcrypto.getRandomValues?.bind(
+        nodeCrypto.webcrypto,
+      );
+      const current = globalThis.crypto as Crypto | undefined;
+      if (
+        current &&
+        (!current.subtle || !(current.subtle as SubtleCrypto).digest)
+      ) {
+        try {
+          Object.defineProperty(current, "subtle", {
+            value: nodeSubtle,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (current as unknown as { subtle: SubtleCrypto }).subtle =
+              nodeSubtle;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+      if (current && !current.getRandomValues && nodeGetRandomValues) {
+        try {
+          Object.defineProperty(current, "getRandomValues", {
+            value: nodeGetRandomValues,
+            configurable: true,
+          });
+        } catch {
+          try {
+            (
+              current as unknown as {
+                getRandomValues: typeof nodeGetRandomValues;
+              }
+            ).getRandomValues = nodeGetRandomValues;
+          } catch {
+            // Ignore if read-only
+          }
+        }
+      }
+    }
+  } catch {
+    // Ignore and keep polyfill
+  }
+}
+
+/**
+ * Loads the Taffy Layout WASM module and registers the preview.
+ *
+ * @returns The loaded Taffy module.
+ */
+async function loadTaffy() {
+  try {
+    await ensureWebCrypto();
+    const wasmUrl =
+      "https://unpkg.com/taffy-layout@latest/pkg/taffy_wasm_bg.wasm";
+    const mod = await import("taffy-layout/wasm");
+    if (mod && typeof mod.default === "function") {
+      await mod.default(wasmUrl);
+    }
+    Object.assign(globalThis, mod);
+    registerPreview(mod);
+    return mod;
+  } catch (error) {
+    console.error("Failed to load taffy-layout wasm", error);
+    throw error;
+  }
+}
+
+export const ready = loadTaffy();
+f:["$","$L10",null,{"motionKey":"content-getting-started/building-trees","children":["$","div",null,{"className":"rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-10 dark:border-slate-800 dark:bg-slate-900","children":[null,["$","div",null,{"className":"doc-content","children":[["$","h1",null,{"id":"building-trees","children":["$","a",null,{"href":"#building-trees","className":"anchor-link","children":"Building Trees"}]}],"\n",["$","p",null,{"children":["Layouts in Taffy are represented as a tree of nodes. Each node has a ",["$","$L15",null,{"data-inline":true,"children":"Style","templates":{"previewHelpers":"$16","setup":"$17","reactIndex":"/**\n * @module features/code/lib/sandpack-assets/react-index\n * @description Entry point for the React Sandpack environment.\n * Initializes the React root and renders the user's App component.\n */\n\nimport { ready } from \"./sandbox-setup\";\nimport { createRoot } from \"react-dom/client\";\n// @ts-expect-error -- Sandpack issue\nimport App from \"./App\";\n\nready.then(() => {\n  // Mount the application once the sandbox environment is ready\n  const root = document.getElementById(\"root\");\n  if (root) createRoot(root).render(<App />);\n});\n","tsIndex":"/**\n * @module features/code/lib/sandpack-assets/ts-index\n * @description Entry point for the Vanilla TypeScript Sandpack environment.\n * Waits for the environment to be ready and then executes the user's code.\n */\n\nimport { ready } from \"./sandbox-setup\";\nready.then(() => {\n  // {{CODE}} - This placeholder is replaced at runtime with the user's TypeScript code.\n});\n"},"inline":true}],", and parent nodes control how their children are arranged."]}],"\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29"]}]]}]}]
+14:null
+18:["$","h2",null,{"id":"key-operations","children":["$","a",null,{"href":"#key-operations","className":"anchor-link","children":"Key Operations"}]}]
+19:["$","div",null,{"className":"table-wrapper my-6 w-full overflow-x-auto","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"style":{"textAlign":"left"},"children":"Operation"}],["$","th",null,{"style":{"textAlign":"left"},"children":"Method"}],["$","th",null,{"style":{"textAlign":"left"},"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Create Leaf"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.newLeaf(style)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Create a node without children (e.g., text, image)."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Create Parent"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.newWithChildren(style, children[])","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Create a node with initial children."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Add Child"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.addChild(parent, child)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Append a child to a parent."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Insert"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.insertChildAtIndex(parent, index, child)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Insert a child at a specific position."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Remove"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.removeChild(parent, child)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Remove a specific child."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Get Styles"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.getStyle(node)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Retrieve the style object for a node."}]]}],["$","tr",null,{"children":[["$","td",null,{"style":{"textAlign":"left"},"children":["$","strong",null,{"children":"Set Styles"}]}],["$","td",null,{"style":{"textAlign":"left"},"children":["$","$L15",null,{"data-inline":true,"children":"tree.setStyle(node, style)","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]}],["$","td",null,{"style":{"textAlign":"left"},"children":"Update the style for a node."}]]}]]}]],"className":"w-full "}]}]
+1a:["$","h2",null,{"id":"creating-nodes","children":["$","a",null,{"href":"#creating-nodes","className":"anchor-link","children":"Creating Nodes"}]}]
+1b:["$","h3",null,{"id":"leaf-nodes","children":["$","a",null,{"href":"#leaf-nodes","className":"anchor-link","children":"Leaf Nodes"}]}]
+1c:["$","p",null,{"children":"Leaf nodes are the endpoints of your layout tree, typically representing content like text, images, or buttons."}]
+1d:["$","pre",null,{"className":"overflow-x-auto language-ts language-ts","suppressHydrationWarning":true,"children":["$","$L15",null,{"className":"language-ts code-highlight","data-language":"ts","children":[["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," tree ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"TaffyTree"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Create styles first"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," style ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":"{"}],"\n"]}],["$","span",null,{"className":"code-line","children":["  display",["$","span",null,{"className":"token operator","children":":"}]," Display",["$","span",null,{"className":"token punctuation","children":"."}],"Flex",["$","span",null,{"className":"token punctuation","children":","}],"\n"]}],["$","span",null,{"className":"code-line","children":["  size",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token punctuation","children":"{"}]," width",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token number","children":"100"}],["$","span",null,{"className":"token punctuation","children":","}]," height",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token number","children":"50"}]," ",["$","span",null,{"className":"token punctuation","children":"}"}],["$","span",null,{"className":"token punctuation","children":","}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token punctuation","children":"}"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Create the node"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," leafNode ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],"style",["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]],"templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":false}]}]
+1e:["$","h3",null,{"id":"container-nodes","children":["$","a",null,{"href":"#container-nodes","className":"anchor-link","children":"Container Nodes"}]}]
+1f:["$","p",null,{"children":"Container nodes group other nodes together. You can create them with existing children for convenience."}]
+20:["$","pre",null,{"className":"overflow-x-auto language-ts language-ts","suppressHydrationWarning":true,"children":["$","$L15",null,{"className":"language-ts code-highlight","data-language":"ts","children":[["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," tree ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"TaffyTree"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," containerStyle ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":"{"}]," display",["$","span",null,{"className":"token operator","children":":"}]," Display",["$","span",null,{"className":"token punctuation","children":"."}],"Flex ",["$","span",null,{"className":"token punctuation","children":"}"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," child1 ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," child2 ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Create container with children attached immediately"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," containerNode ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newWithChildren"}],["$","span",null,{"className":"token punctuation","children":"("}],"containerStyle",["$","span",null,{"className":"token punctuation","children":","}]," ",["$","span",null,{"className":"token punctuation","children":"["}],"child1",["$","span",null,{"className":"token punctuation","children":","}]," child2",["$","span",null,{"className":"token punctuation","children":"]"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]],"templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":false}]}]
+21:["$","h2",null,{"id":"managing-children","children":["$","a",null,{"href":"#managing-children","className":"anchor-link","children":"Managing Children"}]}]
+22:["$","p",null,{"children":"Manipulate the tree structure dynamically using these methods."}]
+23:["$","pre",null,{"className":"overflow-x-auto language-ts language-ts","suppressHydrationWarning":true,"children":["$","$L15",null,{"className":"language-ts code-highlight","data-language":"ts","children":[["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," tree ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"TaffyTree"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," parent ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," child ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Add a child to the end of the list"}],"\n"]}],["$","span",null,{"className":"code-line","children":["tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"addChild"}],["$","span",null,{"className":"token punctuation","children":"("}],"parent",["$","span",null,{"className":"token punctuation","children":","}]," child",["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}]," ",["$","span",null,{"className":"token comment","children":"// Index: 0"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Insert a new child at the beginning"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," firstChild ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":["tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"insertChildAtIndex"}],["$","span",null,{"className":"token punctuation","children":"("}],"parent",["$","span",null,{"className":"token punctuation","children":","}]," ",["$","span",null,{"className":"token number","children":"0"}],["$","span",null,{"className":"token punctuation","children":","}]," firstChild",["$","span",null,{"className":"token punctuation","children":")"}],"$L2a"," ","$L2b","\n"]}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"],"templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":false}]}]
+24:["$","h2",null,{"id":"updating-styles","children":["$","a",null,{"href":"#updating-styles","className":"anchor-link","children":"Updating Styles"}]}]
+25:["$","p",null,{"children":"Styles can be updated at any time. This will mark the node as \"dirty\" and require a new layout computation."}]
+26:["$","pre",null,{"className":"overflow-x-auto language-ts language-ts","suppressHydrationWarning":true,"children":["$","$L15",null,{"className":"language-ts code-highlight","data-language":"ts","children":[["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," tree ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"TaffyTree"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," node ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":"{"}]," flexGrow",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token number","children":"1"}]," ",["$","span",null,{"className":"token punctuation","children":"}"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":"\n"}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Update style later"}],"\n"]}],["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," newStyle ",["$","span",null,{"className":"token operator","children":"="}]," ",["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":"{"}]," flexGrow",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token number","children":"2"}],["$","span",null,{"className":"token punctuation","children":","}]," width",["$","span",null,{"className":"token operator","children":":"}]," ",["$","span",null,{"className":"token number","children":"100"}]," ",["$","span",null,{"className":"token punctuation","children":"}"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}],["$","span",null,{"className":"code-line","children":["tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"setStyle"}],["$","span",null,{"className":"token punctuation","children":"("}],"node",["$","span",null,{"className":"token punctuation","children":","}]," newStyle",["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]],"templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":false}]}]
+27:["$","blockquote",null,{"children":["\n",["$","p",null,{"children":[["$","strong",null,{"children":"Performance Tip"}],": Try to reuse ",["$","$L15",null,{"data-inline":true,"children":"Style","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]," objects for static content initialization, but remember that ",["$","$L15",null,{"data-inline":true,"children":"tree.setStyle","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]," copies the style data into the internal engine, so modifying the JS ",["$","$L15",null,{"data-inline":true,"children":"Style","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]," object ",["$","em",null,{"children":"after"}]," passing it to the tree won't affect the tree until you call ",["$","$L15",null,{"data-inline":true,"children":"setStyle","templates":"$f:props:children:props:children:1:props:children:2:props:children:1:props:templates","inline":true}]," again."]}],"\n"]}]
+28:["$","h2",null,{"id":"next-steps","children":["$","a",null,{"href":"#next-steps","className":"anchor-link","children":"Next Steps"}]}]
+29:["$","ul",null,{"children":["\n",["$","li",null,{"children":["📐 ",["$","strong",null,{"children":["$","$L33",null,{"href":"/docs/getting-started/computing-layouts","children":"Computing Layouts"}]}]," - Calculate positions and sizes."]}],"\n",["$","li",null,{"children":["⚙️ ",["$","strong",null,{"children":["$","$L33",null,{"href":"/docs/getting-started/configuration","children":"Configuration"}]}]," - Global settings."]}],"\n"]}]
+2a:["$","span",null,{"className":"token punctuation","children":";"}]
+2b:["$","span",null,{"className":"token comment","children":"// Index: 0, previous child becomes Index 1"}]
+2c:["$","span",null,{"className":"code-line","children":"\n"}]
+2d:["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Replace a child"}],"\n"]}]
+2e:["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token keyword","children":"const"}]," newChild ",["$","span",null,{"className":"token operator","children":"="}]," tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"newLeaf"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token keyword","children":"new"}]," ",["$","span",null,{"className":"token class-name","children":"Style"}],["$","span",null,{"className":"token punctuation","children":"("}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]
+2f:["$","span",null,{"className":"code-line","children":["tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"replaceChildAtIndex"}],["$","span",null,{"className":"token punctuation","children":"("}],"parent",["$","span",null,{"className":"token punctuation","children":","}]," ",["$","span",null,{"className":"token number","children":"1"}],["$","span",null,{"className":"token punctuation","children":","}]," newChild",["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]
+30:["$","span",null,{"className":"code-line","children":"\n"}]
+31:["$","span",null,{"className":"code-line","children":[["$","span",null,{"className":"token comment","children":"// Remove a child"}],"\n"]}]
+32:["$","span",null,{"className":"code-line","children":["tree",["$","span",null,{"className":"token punctuation","children":"."}],["$","span",null,{"className":"token function","children":"removeChild"}],["$","span",null,{"className":"token punctuation","children":"("}],"parent",["$","span",null,{"className":"token punctuation","children":","}]," firstChild",["$","span",null,{"className":"token punctuation","children":")"}],["$","span",null,{"className":"token punctuation","children":";"}],"\n"]}]
