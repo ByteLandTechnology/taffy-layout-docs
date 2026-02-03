@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Blue (Left Wrapper) -->
+  <path d="M 5 25 L 55 50 L 5 75 Z" fill="#007AFF" stroke="#007AFF" stroke-width="8" stroke-linejoin="round" />
+  <!-- Red (Right Wrapper) -->
+  <path d="M 95 25 L 45 50 L 95 75 Z" fill="#FF3B30" stroke="#FF3B30" stroke-width="8" stroke-linejoin="round" />
+  <!-- Green (Center Body) -->
+  <path d="M 50 38 L 62 50 L 50 62 L 38 50 Z" fill="#34C759" stroke="#34C759" stroke-width="32" stroke-linejoin="round" />
+</svg>
