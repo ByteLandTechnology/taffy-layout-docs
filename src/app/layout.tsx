@@ -10,6 +10,7 @@ import "@/app/globals.css";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { Providers } from "@/components/providers/Providers";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
+import { MicrosoftClarity } from "@/components/analytics/MicrosoftClarity";
 import { Metadata } from "next";
 
 /**
@@ -121,6 +122,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
     >
       <head></head>
       <body className="min-h-screen antialiased">
+        <MicrosoftClarity projectId={process.env.CLARITY_PROJECT_ID || ""} />
         <a href="#main-content" className="skip-link">
           Skip to content
         </a>

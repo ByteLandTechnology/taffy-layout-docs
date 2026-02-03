@@ -16,6 +16,7 @@
   "dependencies": {
     "@codesandbox/sandpack-react": "^2.20.0",
     "@heroui/react": "^2.8.8",
+    "@microsoft/clarity": "^1.0.2",
     "@noble/hashes": "^2.0.1",
     "framer-motion": "^12.30.0",
     "gray-matter": "^4.0.3",
