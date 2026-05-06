@@ -120,7 +120,14 @@ export default function RootLayout({ children }: RootLayoutProps) {
       className={`${exo.variable} ${jetbrains.variable}`}
       suppressHydrationWarning
     >
-      <head></head>
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-8563271565744257" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8563271565744257"
+          crossOrigin="anonymous"
+        ></script>
+      </head>
       <body className="min-h-screen antialiased">
         <MicrosoftClarity projectId={process.env.CLARITY_PROJECT_ID || ""} />
         <a href="#main-content" className="skip-link">
